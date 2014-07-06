@@ -38,3 +38,15 @@ Files with the ".markdown" extension are purposely ignored by the courseware, so
 ### Note to Contributors:
 
 I (Eliza) have rewritten the repository history to remove the large files that caused the repository to bloat to 400+Mb.  Pro: this means pulling down the repository no longer involves half a gig of data transfer.  Con: this means that the history in your local repositories no longer remotely matches anything you may have in your local repositories.
+
+### Note to Self, re: progress reorganizing the repo:
+
+> git ls-files . --exclude-standard --others | nl
+
+> git ls-files | nl
+
+Completion Status:
+
+    | date          | files  | % complete |
+    | 6/22, 11:00AM | 6/918  | 0.65%      |
+    | 7/06, 12:45AM | 21/826 | 2.54%      |

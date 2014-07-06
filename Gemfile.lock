@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/elizabrock/slide-em-up.git
-  revision: b8952c82a1d5d84b4f74045138363f2de7abe48a
+  revision: a02e0a0e90476a992253fdbd70e8c59b07db3f08
   branch: master
   specs:
     slide-em-up (0.3.5)
