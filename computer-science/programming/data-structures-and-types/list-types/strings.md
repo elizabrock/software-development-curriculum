@@ -20,11 +20,11 @@ See the article on the character data type.
 
 ## Single vs. Double Quoted Strings
 
- | Name               | single quoted string       | double quoted string                 |
- | Symbol             | '                          | "                                    |
- | Interpolation?     | no                         | yes!                                 |
- | Escape Characters? | yes                        | yes                                  |
- | Allowed Characters | anything but single quotes | anything but unescaped double quotes |
+     | Name               | single quoted string       | double quoted string                 |
+     | Symbol             | '                          | "                                    |
+     | Interpolation?     | no                         | yes!                                 |
+     | Escape Characters? | yes                        | yes                                  |
+     | Allowed Characters | anything but single quotes | anything but unescaped double quotes |
 
 
 ## Sources and Further Reading
