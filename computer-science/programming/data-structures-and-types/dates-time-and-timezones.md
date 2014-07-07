@@ -8,10 +8,10 @@ Time is amazingly complicated.
 
 Different cultures format dates in different ways.  For example, the 12th of Decemeber in the year 2012 could be formatted as:
 
-  | Region            | Date       |
-  | Europe / ISO 8601 | 2012/12/04 |
-  | United States     | 12/04/2012 |
-  | United Kingdom    | 04/12/2012 |
+    | Region            | Date       |
+    | Europe / ISO 8601 | 2012/12/04 |
+    | United States     | 12/04/2012 |
+    | United Kingdom    | 04/12/2012 |
 
 This can be extremely confusing and difficult to parse.  For example, looking at '12/04/2012' and '04/12/2012' from the viewpoint of an American, would actually represent two different dates: The fourth day of Deecember in 2012, and the twelth day of April in 2012.  Without the dates being specifically noted as originating from a specific region, there's no way to know what date the string actually represents.
 
