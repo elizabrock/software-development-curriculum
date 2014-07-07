@@ -50,3 +50,15 @@ Completion Status:
     | date          | files  | % complete |
     | 6/22, 11:00AM | 6/918  | 0.65%      |
     | 7/06, 12:45AM | 21/826 | 2.54%      |
+    | 7/06, 11:45AM | 34/818 | 4.15%      |
+
+## TODO:
+
+* Clean out strings folder
+* Reference the methods article from the RDoc folder
+* Make sure to clean out the arrays folder
+* Make sure to clear out the hashes folder
+* Make sure to clear out the stacks/queues folder
+* Make sure to clear out the Regular Expressions folder
+* More details on the git commands in the version control article
+* Reference: http://24ways.org/2013/git-for-grownups/
