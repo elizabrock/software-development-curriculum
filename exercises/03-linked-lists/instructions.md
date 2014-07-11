@@ -43,6 +43,7 @@ Caveats
 * No copying (from the internet or your peers)
 
 ## Milestone 1: Implement LinkedListItem
+> requires: LinkedLists
 
 Implement all of the tests for LinkedListItems.
 
@@ -51,5 +52,6 @@ Implement all of the tests for LinkedListItems.
 Implement all of the tests for LinkedList.
 
 ## Milestone 3: Implement Search/Sorting
+> requires: Searching & Sorting
 
 Implement the final searching/sorting tests.  These tests won't be pushed up until we've covered searching and sorting in class.

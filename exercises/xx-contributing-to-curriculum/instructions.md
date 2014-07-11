@@ -1,5 +1,7 @@
 # Contributing to the Curriculum
 
+Your next mission is to contribute to the curriculum repository!
+
 ## Contribute to the Curriculum
 
 1. Fork https://github.com/elizabrock/software-development-curriculum
