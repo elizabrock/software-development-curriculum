@@ -52,8 +52,19 @@ The following chart (adapted from Dave Perrett's article, cited below) demonstra
 
 ### Calculating Big-O
 
-> TODO
+Really Basic Example:
 
+There are n items in an array.  My algorithm loops 3n + 1024 times.
+
+Big O simplifies out all constants, as such:
+
+    3n + 1024
+    simplifies down to:
+    3n
+    simplifies down to:
+    O(n)
+
+The references below contain more in-depth and nuanced explanations of calculating Big O.
 
 ### Alternatives
 
@@ -65,4 +76,6 @@ There are alternative notations, for example Big-Theta, little-O, etc., that are
 * [Wikipedia: Big O Notation](http://en.wikipedia.org/wiki/Big_O_notation)
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 * [Dave Perrett's CompSci 101 - Big-O notation](http://www.daveperrett.com/articles/2010/12/07/comp-sci-101-big-o-notation/)
-* [Wikipedia: Sorting Algorithms](http://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms)
+* [Quora: What is the big O notation and how do I calculate it?](http://www.quora.com/Big-O-Notation/What-is-the-big-O-notation-and-how-do-I-calculate-it)
+* [Justing Abrahms: Big-O is easy to calculate, if you know how](http://justinlilly.com/computer-science/how-to-calculate-big-o.html)
+* [Stack Overflow: Plain English explanation of Big O](http://stackoverflow.com/questions/487258/plain-english-explanation-of-big-o)
