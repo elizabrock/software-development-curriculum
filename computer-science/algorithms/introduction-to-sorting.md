@@ -1,25 +1,25 @@
 # Overview of Sorting
 
-## Introduction to Sorting algorithms
+## Introduction to Sorting Algorithms
 
-> A sorting alogrithm is an algorithm that puts elements of a list in a certain order. (Wikipedia)
+> A sorting algorithm is an algorithm that puts elements of a list in a certain order. (Wikipedia)
 
-Simply put a sorting alogrithm is the method of how one sorts items. Most of the time sorting happens in numerical or lexicographical order. There are few conditions that must be met in order to be clasified as a sorting algorithm:
+Simply put, a sorting algorithm is a method for sorting items. Most of the time sorting happens in numerical or lexicographical order. There are few conditions that must be met in order to be classified as a sorting algorithm:
 
-- The output is in nondecreasing order (each element is no smaller than the previous element according to the desired total order);
+- The output is in nondecreasing order (each element is no smaller than the previous element according to the desired total order), or
 
 - The output is a permutation (reordering) of the input.
 (Wikipedia)
 
-Apart from those two things there can be many approaces to how one can sort data. Here are a few examples of how one can sort data.
+Apart from those two things there can be many approaches to how one can sort data. Here are a few examples of how one can sort data.
 
 ## Insertion Sort
 
-The insertion sort is a simple sorting algorithim that builds its final sorted array one item at a time. It is rather effiecent in small groups of data but gradually gets less effient with larger sets of data.
+The insertion sort is a simple sorting algorithm that builds its final sorted array one item at a time. It is rather efficient in small groups of data but gradually becomes less efficient with larger sets of data.
 
-Some advantages of Insetion sort is:
+Some advantages of insertion sort is:
 
-- Simple Implentation
+- Simple implementation
 - Efficient for (quite) small data sets
 - Adaptive (i.e., efficient) for data sets that are already substantially sorted: the time complexity is O(n + d), where d is the number of inversions
 - More efficient in practice than most other simple quadratic (i.e., O(n2)) algorithms such as selection sort or bubble sort; the best case (nearly sorted input) is O(n)
@@ -29,7 +29,7 @@ Some advantages of Insetion sort is:
 
 A good video on how the insertion sort works is [Insertion Sort explained by Apple Juice Teaching](https://www.youtube.com/watch?v=baV_W4-x5Wg)
 
-######Below is a graphical represnetation of the insertion sort:
+######Below is a graphical representation of the insertion sort:
 
 ![Example of Insertion Sort](insertionsort.gif)
 
@@ -44,7 +44,7 @@ The selection sort works by dividing the input into two parts: the sublist of al
 	Step 4               1   4   4   5   8
 	Result               1   4   4   5   8
 
-######Below is a animated example of the Selection sort:
+######Below is a animated example of the selection sort:
 
 ![Example of Selection Sort](selectionsort.gif)
 
@@ -52,12 +52,13 @@ The selection sort works by dividing the input into two parts: the sublist of al
 
 The merge sort conceptually works like:
 
-1. Divide the unsorted list into two sublists of about half the size
-2. Divide each of the two sublists recursively until we have list sizes of length 1, in which case the list itself is returned
+1. Divide the unsorted list into two sublists of approximately half the list's size
+2. Divide each of the two sublists recursively until we have list sizes of length of 1, in which case the list itself is returned
 3. Merge the two sorted sublists back into one sorted list.
 
-The merge sort is easy to implment and can be best described as a divide and conquer algorith. It was invented by John von Nuemann in 1945.
-######Below is a representation of the Merge Sort:
+The merge sort is easy to implement and can be best described as a "divide and conquer" algorithm. It was invented by John von Neumann in 1945.
+
+######Below is a representation of the merge sort:
 ![Example of Merge Sort](mergesort.gif)
 
 ## Quick Sort
@@ -68,14 +69,14 @@ Quick sort works like this:
 2. Reorder the array so that all elements with values less than the pivot come before the pivot, while all elements with values greater than the pivot come after it (equal values can go either way). After this partitioning, the pivot is in its final position. This is called the partition operation.
 3. Recursively apply the above steps to the sub-array of elements with smaller values and separately to the sub-array of elements with greater values.
 
-######Below is a animated showing of the Quick Sort:
+######Below is a animated showing of the quick sort:
 
 ![Example of Quick Sort](quicksort.gif)
 
 ## Bubble Sort
 The bubble sort is a simple sorting algorithm that works by repeatedly stepping through the list to be sorted, comparing each pair of adjacent items and swapping them if they are in the wrong order. Then the pass through the list is repeated until there are no swaps needed.
 
-######Below shows how the Bubble Sort works:
+######Below shows how the bubble sort works:
 
 ![Example of Bubble Sort](bubblesort.gif)
 
@@ -91,7 +92,7 @@ Bucket sort works as follows:
 3. Sort each non-empty bucket.
 4. Gather: Visit the buckets in order and put all elements back into the original array.
 
-######The image below shows how a Bucket Sort will break data into sets:
+######The image below shows how a bucket sort will break data into sets:
 
 ![Example of Bucket Sort](bucketsort.png)
 
