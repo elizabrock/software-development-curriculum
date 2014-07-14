@@ -35,7 +35,7 @@ Big-Oh notation is a mathematical expression of the worst-case performance of an
 
 The following chart (adapted from Dave Perrett's article, cited below) demonstrates how the different sizes of inputs translate into different performance results:
 
-    | Big Oh     | Name        | n = 100 | n = 100                                   |
+    | Big Oh     | Name        | n = 10  | n = 100                                   |
     | O(1)       | Constant    | 1       | 1                                         |
     | O(log n)   | Logarithmic | 3       | 7                                         |
     | O(n)       | Linear      | 10      | 100                                       |
