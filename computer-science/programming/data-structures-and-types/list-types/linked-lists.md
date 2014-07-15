@@ -1,5 +1,21 @@
-# LinkedLists
+# Linked Lists
 
-This needs to be filled in ;)
+## UML
 
-Eliza: Don't forget to copy all the images in.
+![Linked List UML](linked-list-uml.png)
+
+## Add
+
+![Linked List Add](linked-list-add.png)
+
+## Traversal
+
+![Linked List Traversal](linked-list-traversal.png)
+
+## Delete
+
+![Linked List Delete](linked-list-delete.png)
+
+## Sort
+
+![Linked List Sort](linked-list-sort.png)
