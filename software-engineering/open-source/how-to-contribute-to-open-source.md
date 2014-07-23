@@ -6,6 +6,9 @@
 * a bug you need fixed for your own work
 * just ask
 
+## Put in a PR
+
+
 ## Issuing Pull Requests
 
 1. Create a branch with a meaningful name.
@@ -14,3 +17,6 @@
 4. Click "Compare & Pull Request"
 
 https://help.github.com/articles/syncing-a-fork
+
+
+## How to deal with master getting ahead of you
