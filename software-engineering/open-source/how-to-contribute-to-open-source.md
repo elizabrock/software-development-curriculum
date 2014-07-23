@@ -11,6 +11,6 @@
 1. Create a branch with a meaningful name.
 2. Push your local branch to your repo/
 3. Once ready, use your branch menu to select your branch.
-4. Click "Pull Request"
+4. Click "Compare & Pull Request"
 
 https://help.github.com/articles/syncing-a-fork
