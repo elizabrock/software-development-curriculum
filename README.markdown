@@ -32,8 +32,16 @@ Files with the ".markdown" extension are purposely ignored by the courseware, so
 * Nat Webb (@natwebb)
 * Spencer Anastasio (@SpencerAnastasio)
 * Peder Schacht (@PederSchacht)
-* Adam Thede (@adamthese)
-* Stephen Yeargim (@stephenyeargin)
+* Adam Thede (@adamthede)
+* Stephen Yeargin (@stephenyeargin)
+* Kelley Stephens (@kelleystephens)
+* Samantha Yeargin (@slyeargin)
+* Amber Agard (@amberagard)
+* Wes Mangum (@wesmangum)
+* Jurnell Cockhren (@jcockhren)
+* Matt Spell (@mattSpell)
+* Courey Elliott (@Courey)
+* Bob Paterno (@bobpaterno)
 
 ### Note to Contributors:
 
