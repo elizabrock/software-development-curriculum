@@ -1,11 +1,10 @@
 # Northwind ERD Diagram
 
+You can import the Northwind database using [SQLite Database Browser](https://github.com/sqlitebrowser/sqlitebrowser) or the [SQLite Manager Firefox Plugin](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/)
 
 ## Create an ERD of the Northwind database.
 
 Use a diagramming tool (for example, [Lucid Chart](https://www.lucidchart.com/pages/er-diagram-tool)) to create a database diagram for the [Northwind](https://raw.githubusercontent.com/elizabrock/software-development-curriculum/master/computer-science/databases/northwind_rails_style.sql) database.
-
-You can import the Northwind database using [SQLite Database Browser](https://github.com/sqlitebrowser/sqlitebrowser) or the [SQLite Manager Firefox Plugin](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/)
 
 An example beginning of this is:
 
