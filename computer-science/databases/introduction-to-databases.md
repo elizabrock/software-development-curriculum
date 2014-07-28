@@ -93,3 +93,4 @@ Distributed databases increase maintenance and administrative costs, as managing
 * [Wikipedia: In-memory database](http://en.wikipedia.org/wiki/In-memory_database)
 * [Wikipedia: Centralized database](http://en.wikipedia.org/wiki/Centralized_database)
 * [Wikipedia: Create, read, update, delete](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete#Database_applications)
+* [Wikipedia: Outline of databases](http://en.wikipedia.org/wiki/Outline_of_databases)

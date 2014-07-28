@@ -27,13 +27,13 @@ This is a partial list of project ideas that have been considered (or implemente
 * Thoughtbot Learn variant
 * Time Tracking
 * Fantasy Football Draft
-* Choose your own adventure
+* Choose your own adventure (maybe not the best for db)
 * Debt Snowball Tracker
 * What Shoes? (Weather + Shoe Suggestions)
 * Outfit Picker/Closet Manager
 * Beer Brewing
 * Travel Budgetting
 * Movie Recommendations
-* Markov chains
+* Markov chains (maybe not the best for db)
 * Drink Suggestions (recipes based on ingredients on hand)
 * Restaurant Picker

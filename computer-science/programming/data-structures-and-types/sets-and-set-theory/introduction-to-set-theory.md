@@ -15,3 +15,4 @@
 * [Wikipedia: Set Theory](http://en.wikipedia.org/wiki/Set_theory)
 * [Wikibooks: Set Theory](http://en.wikibooks.org/wiki/Set_Theory)
 * [Wikipedia: Venn Diagram](http://en.wikipedia.org/wiki/Venn_diagram)
+* [Wikipedia: Set (Mathematics)](http://en.wikipedia.org/wiki/Set_(mathematics\))
