@@ -111,7 +111,9 @@ Inheritance is indicated in Ruby with the < symbol. An example of simple inherit
     son = Child.new()
 
     dad.implicit()
+    => PARENT implicit()
     son.implicit()
+    => PARENT implicit()
 
 As you can see, the method 'implicit' can be performed on both an instance of the Parent class as well as the Child class without redefining any method inside of Child.
 
@@ -121,7 +123,7 @@ All classes have a link to a superclass. If you don’t explicitly inherit from 
 
 Even though all classes eventually lead back to *Object*, the highest class in ruby's inheritance hierarchy is *BasicObject*. BasicObject is an explicit blank class that is used for creating new object hierarchies independent of Ruby's object hierarchy. Below is a basic diagram to help describe what we have been discussing (note - Animal and Dog classes are examples of custom classes).
 
-![](../../../../assets/img/inheritance_diagram.png)
+![](../../../../computer-science/programming/data-structures-and-types/objects/img/inheritance_diagram.png)
 
 In this example where the classes *Animal* and *Dog* have been created, we could write out the inheritance chain like this: Dog < Animal < Object < BasicObject. Fido is an instance of the class Dog, just as the number 3 is an instance of the built-in Ruby class *Fixnum*.
 
@@ -150,7 +152,9 @@ Sometimes you want a method that is inherited from a superclass to have differen
     son = Child.new()
 
     dad.override()
+    => PARENT override()
     son.override()
+    => CHILD override()
 
 In this example, dad.override() will print out "PARENT override()" whereas son.override() will print out "CHILD override()". This is because we have redefined the *override* method inside of the *Child* class.
 
@@ -180,9 +184,9 @@ Another way to override an inherited method inside of a subclass is by using the
 
 The result of calling *son.altered()* will be:
 
-    "CHILD, BEFORE PARENT altered()"
-    "PARENT altered()"
-    "CHILD, AFTER PARENT altered()"
+    CHILD, BEFORE PARENT altered()
+    PARENT altered()
+    CHILD, AFTER PARENT altered()
 
 
 ## Sources and Further Reading
