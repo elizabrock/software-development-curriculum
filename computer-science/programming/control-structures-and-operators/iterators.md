@@ -115,7 +115,7 @@ for instance
 until i = 3
 would stop the iterator when i reached three
 
-sources:
-http://www.ruby-doc.org/docs/ruby-doc-bundle/UsersGuide/rg/iterators.html  
-http://code.tutsplus.com/tutorials/ruby-for-newbies-iterators-and-blocks--net-17089
-https://thenewcircle.com/static/bookshelf/ruby_tutorial/iterators.html
+## sources:
+  * http://www.ruby-doc.org/docs/ruby-doc-bundle/UsersGuide/rg/iterators.html  
+  * http://code.tutsplus.com/tutorials/ruby-for-newbies-iterators-and-blocks--net-17089
+  * https://thenewcircle.com/static/bookshelf/ruby_tutorial/iterators.html
