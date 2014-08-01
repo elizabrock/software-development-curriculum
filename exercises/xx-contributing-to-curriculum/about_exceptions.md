@@ -104,7 +104,6 @@ Some thoughts on stylistic concerns between `fail` and `raise` by Jim Weirich, q
 > Sometimes, you need to guarantee that some processing is done at the end of a block of code, regardless of whether an exception was raised. For example, you may have a file open on entry to the block and you need to make sure it gets closed as the block exits. [Full article](http://www.tutorialspoint.com/ruby/ruby_exceptions.htm)
 
 **Syntax** for using `ensure`:
-
 ~~~ ruby
 begin
   # process
