@@ -2,6 +2,10 @@
 ----
 ## What is an Array?
 * An array is a collection of objects separated by commas and indexed by integers starting at 0.
+* Arrays can include any mixture of objects types.
+
+        example_array = ["cat", :dog, true]
+
 
 ## Creating An Array
 * **Array.new** will create an empty array.
