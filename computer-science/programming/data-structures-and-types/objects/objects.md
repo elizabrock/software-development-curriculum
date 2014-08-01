@@ -35,7 +35,7 @@ Blocks, lambdas, Class - all of the them are objects. Every expression in Ruby e
 * SomeUserDefinedClass.new
 
 
-#Instance Methods Inside an Object
+## Instance Methods Inside an Object
 
 Instance variables are hidden away inside the object. As you can see in this example below, calling .instance_methods on an object reveals all of the instance methods that can be called on it. These are all of the methods for a made-up "Greeter" object. It is a complete list, including ones defined by any ancestor classes.
 
@@ -51,7 +51,7 @@ irb(main):039:0> Greeter.instance_methods
     "say_bye", "__id__", "=~", "methods", "nil?", "dup",
     "instance_variables", "instance_of?"]
 
-## Object IDs
+## Object IDs Overview
 
 Every Object in Ruby has its own ID. That means each Object will have an ID that is unique to itself. If two different variables are set equal to what appears to be the same object, they will still have different IDs. For example:
 
