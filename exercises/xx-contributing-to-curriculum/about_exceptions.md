@@ -29,9 +29,9 @@ begin
 rescue
   puts "You caused an error!"
 end
-
-=> You caused an error!
 ~~~
+
+    => You caused an error!
 
 In this example, `begin` and `end` define a section of code to run. When an exception is raised, because it occurs inside a block with a rescue section, the exception is handled by the code inside the rescue block instead of terminating the program. Instead of dying with a `ZeroDivisionError`, our message "You caused an error!" is printed to the screen.
 
