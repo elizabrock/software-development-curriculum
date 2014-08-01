@@ -1,5 +1,5 @@
 # About Exceptions
-----
+
 ##What are exceptions?
 
 An exception is an event that occurs when an error arises within your program. It can cause your program to quit immediately with an error message, or it can be handled by error-handling routines within the program. An exception is a packaged into a special kind of object and is an instance of the class Exception or a descendent of that class.
@@ -14,7 +14,6 @@ Ruby has about 30 main predefined exception classes that deal with different typ
 
 As you can see from the diagram, there is a hierarchy to how exceptions inherit from Exception. For example, `RuntimeError` inherits from `StandardError`, which inherits from Exception, which inherits from Object.
 
-----
 ## The Rescue Clause
 
 Here is an excellent explanation of the rescue clause:
@@ -29,9 +28,8 @@ begin
 rescue
   puts "You caused an error!"
 end
+# => You caused an error!
 ~~~
-
-    => You caused an error!
 
 In this example, `begin` and `end` define a section of code to run. When an exception is raised, because it occurs inside a block with a rescue section, the exception is handled by the code inside the rescue block instead of terminating the program. Instead of dying with a `ZeroDivisionError`, our message "You caused an error!" is printed to the screen.
 
