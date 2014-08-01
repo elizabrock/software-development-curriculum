@@ -55,30 +55,29 @@ irb(main):039:0> Greeter.instance_methods
 
 Every Object in Ruby has its own ID. That means each Object will have an ID that is unique to itself. If two different variables are set equal to what appears to be the same object, they will still have different IDs. For example:
 
-obj = Object.new br
+    obj = Object.new br
 
-another_obj = Object.new
+    another_obj = Object.new
 
-obj != another_obj
+    obj != another_obj
 
 Cloning a variable that gets an object also creates a different obj:
 
-  obj = Object.new
+    obj = Object.new
 
-  copy = obj.clone
+    copy = obj.clone
 
-  obj != copy
+    obj != copy
 
-Small integers, on the other hand, share the same ID:
+However, with small integers, nil, true and false, this is not the case. These will ALWAYS have the same ID. For example, if I check the ID of the integer 3, shutdown irb, start up irb and then check it again, it will still
+have the same ID. Here is a small example below:
 
-num = 1
+    num = 1
 
-num2 = 1
+    num2 = 1
 
-num.object_id == num2.object_id
-
-This is because there is only one instance of small variables in a program at a time.
-
+    num.object_id == num2.object_id
+ 
 
 ### Works Cited / Further Reading
 * http://rubymonk.com/learning/books/4-ruby-primer-ascent/chapters/39-ruby-s-object-model/lessons/127-object-identity-what-is-an-object
