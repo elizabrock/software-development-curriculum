@@ -5,14 +5,14 @@ The first thing we do to create an object is define a class. A class is a templa
 
 Below is a small example of creating a class in irb.
 
-!/usr/bin/ruby
+    #!/usr/bin/ruby
 
-class Being
+    class Being
 
-end
+    end
 
-b = Being.new
-puts b
+    b = Being.new
+    puts b
 
 
 Methods on objects are available to all classes unless manually overridden.
@@ -39,8 +39,8 @@ Blocks, lambdas, Class - all of the them are objects. Every expression in Ruby e
 
 Instance variables are hidden away inside the object. As you can see in this example below, calling .instance_methods on an object reveals all of the instance methods that can be called on it. These are all of the methods for a made-up "Greeter" object. It is a complete list, including ones defined by any ancestor classes.
 
-irb(main):039:0> Greeter.instance_methods
-=> ["method", "send", "object_id", "singleton_methods",
+    irb(main):039:0> Greeter.instance_methods
+     => ["method", "send", "object_id", "singleton_methods",
     "__send__", "equal?", "taint", "frozen?",
     "instance_variable_get", "kind_of?", "to_a",
     "instance_eval", "type", "protected_methods", "extend",
@@ -77,7 +77,7 @@ have the same ID. Here is a small example below:
     num2 = 1
 
     num.object_id == num2.object_id
- 
+
 
 ### Works Cited / Further Reading
 * http://rubymonk.com/learning/books/4-ruby-primer-ascent/chapters/39-ruby-s-object-model/lessons/127-object-identity-what-is-an-object
