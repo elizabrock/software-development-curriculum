@@ -6,7 +6,6 @@ An exception is an event that occurs when an error arises within your program. I
 
 > By default, Ruby programs terminate when an exception occurs. But it is possible to declare exception handlers. An **exception handler** is a block of code that is executed if an exception occurs during the execution of some other block of code. *Raising an exception* means stopping normal execution of the program and transferring the flow-of-control to the exception handling code where you either deal with the problem that's been encountered or exit the program completely. Which of these happens - dealing with it or aborting the program - depends on whether you have provided a **rescue clause** (rescue is a fundamental part of the Ruby language). If you haven't provided such a clause, the program terminates; if you have, control flows to the rescue clause. [More from this article](http://rubylearning.com/satishtalim/ruby_exceptions.html)
 
-----
 ## Types of Exceptions & Inheritance
 Ruby has about 30 main predefined exception classes that deal with different types of errors, such as `NoMemoryError`, `RuntimeError`, `SecurityError`, `ZeroDivisionError`, and `NoMethodError`. The following is a complete list of the subclasses that inherit from Exception.
 
@@ -37,7 +36,6 @@ The following quote illustrates why this is useful:
 
 > If retrieving the contents of a Web page fails (if you're not connected to the Internet, for example), then the error-handling routine rescues the exception, alerts the user of an error, and then loads up some data from a local file instead -- certainly better than exiting the program immediately! (*Beginning Ruby*, p. 186)
 
-----
 ## Raise a specific error
 
 Why would you want to raise a specific error?
@@ -89,7 +87,6 @@ raise CustomException.new(a: "b")
 # CustomException: CustomException
 ~~~
 
-----
 ## `raise` and `fail` are synonyms
 
 In Ruby, `fail` is synonymous to `raise`.
@@ -100,7 +97,6 @@ Some thoughts on stylistic concerns between `fail` and `raise` by Jim Weirich, q
 
 [More on the topic of the fail keyword](http://stackoverflow.com/questions/18811675/what-does-the-fail-keyword-do-in-ruby)
 
-----
 ## Ensure clause
 
 `ensure` ensures a block of code is run regardless of exceptions raised in that block.
