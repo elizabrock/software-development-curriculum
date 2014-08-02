@@ -1,5 +1,6 @@
 # Introduction to Databases
 
+
 ## What is a database?
 
 A database is a data store.  Databases logically organize data into an abstraction of real-world concepts.
@@ -13,6 +14,10 @@ A DBMS is a database management system.
 Databases and database management systems are different concepts.  The database is the data and the metadata (for example, indexes) about that data.
 
 The database management system is the software used to access and manipulate the data stored in the database.  This is typically referred to as the [CRUD operations](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete#Database_applications) (create, read, update, delete).
+
+### ACID
+
+> In computer science, ACID (Atomicity, Consistency, Isolation, Durability) is a set of properties that guarantee that database transactions are processed reliably. In the context of databases, a single logical operation on the data is called a transaction. For example, a transfer of funds from one bank account to another, even involving multiple changes such as debiting one account and crediting another, is a single transaction. -- Wikipedia: ACID
 
 ## What are the types of databases?
 
@@ -78,6 +83,29 @@ Distributed databases are stored across multiple machines and locations.  This s
 
 Distributed databases increase maintenance and administrative costs, as managing databases and fail-over across many locations typically requires more specialized knowledge.
 
+
+## Outline of Databases Topics
+
+The general order in which I (Eliza) think cover database-related topics:
+
+  * Intro to Databases
+  * ACID
+  * Entity-Relation Diagrams
+  * Intro to SQL
+  * Creating Databases
+  * Table definitions
+  * Constraints
+  * Indexing
+  * Transactions
+  * Locks
+  * Normalization
+  * Joins
+  * Projects
+  * Overview of:
+    * Sprocs
+    * Views
+    * Query Optimization
+
 ## Resources
 
 * [Wikipedia: Database](http://en.wikipedia.org/wiki/Database)
@@ -88,9 +116,10 @@ Distributed databases increase maintenance and administrative costs, as managing
 * [Wikipedia: XML Database](http://en.wikipedia.org/wiki/XML_database)
 * [Wikipedia: Relational database management system](http://en.wikipedia.org/wiki/Relational_database_management_system)
 * [Wikipedia: Relational model](http://en.wikipedia.org/wiki/Relational_model)
-* [Wikipedia: Tuples](http://en.wikipedia.org/wiki/Tuple)
+* [Wikipedia: Tuple](http://en.wikipedia.org/wiki/Tuple)
 * [Wikipedia: Spatial Database](http://en.wikipedia.org/wiki/Spatial_database)
 * [Wikipedia: In-memory database](http://en.wikipedia.org/wiki/In-memory_database)
 * [Wikipedia: Centralized database](http://en.wikipedia.org/wiki/Centralized_database)
 * [Wikipedia: Create, read, update, delete](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete#Database_applications)
 * [Wikipedia: Outline of databases](http://en.wikipedia.org/wiki/Outline_of_databases)
+* [Wikipedia: ACID](http://en.wikipedia.org/wiki/ACID)

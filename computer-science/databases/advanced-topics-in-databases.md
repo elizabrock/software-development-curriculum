@@ -10,6 +10,9 @@
   * Clustered (primary) index
   * Non-clustered (secondary) index
   * Heaps
+  * Unique Indexes
+  * Composite Indexes
+  * Indexes on computed columns?
 * Views
   * focuses data, masks database complexity, simplifies user permissions
 * Stored Procedures (Sprocs)

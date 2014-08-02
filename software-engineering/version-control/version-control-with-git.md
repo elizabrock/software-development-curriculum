@@ -1,5 +1,8 @@
 # Version Control with Git
 
+<blockquote class="twitter-tweet" lang="en"><p>OH “you are not exactly git blameless here.”</p>&mdash; Justin Searls (@searls) <a href="https://twitter.com/searls/statuses/243768104813993984">September 6, 2012</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Why version control?
 
   * Backup

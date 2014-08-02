@@ -1,45 +1,19 @@
 Course Notes from Cohort Blueberry:
 ----------------------------------
 
-Cal
-
-Travis & Code Climate
+Stress Relief Options:
+  * Travis
+  * Code Climate
+  * Click Presentation
+  * Blogging
+  * Code review on cal
 
 Missing curriculum contributions
-  * Aaron
-  * Adam
-  * Alex
-  * Andrew
-  * Carter (Needs updates)
-  * Chad
-  * Jack
-  * Kristian
-  * MaRisa (Needs updates)
-  * Matt Olson
-  * Nathan
-  * Rachel
-  * Richmond
-  * Seth
-  * Terrence
-  * Will
+  * Alex [Sandwich Code]
+  * Andrew [Symbols: Needs additional detail]
+  * Carter [Strings: Needs fixes]
+  * Jack [Message Passing]
+  * Matt Olson [Blocks]
 
-
-Set Theory
-
-Intro to database types
-
-ACID (Atomicity, Consistency, Isolation, Durability)
-
-Intro to relational DB? (tables, relationships)
-
-Click presentation?
-
-Update courseware to allow access to all articles
-
-
-Mon. night:
-
-Read databases links
-Create ERD for Northwinds
-Read http://tutorials.jumpstartlab.com/topics/fundamental_sql.html
-Take a look at: http://sql.learncodethehardway.org/book/
+Today:
+  * Starting on the in-class CLI pure-SQL app
