@@ -1,5 +1,5 @@
 # Symbols
-
+A symbol in computer programming is a primitive datatype whose instances have a unique human-readable form. Symbols can be used as identifiers. In some programming languages, they are called atoms. (wiki)
 ## From the Koans
 * Symbols are an instance of Symbol
 * Symbols can be compared for equality
