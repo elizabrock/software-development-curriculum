@@ -13,8 +13,6 @@ A symbol in computer programming is a primitive datatype whose instances have a 
 * Symbols are not instances of strings, and therefor do not have any associated string methods
 
 
-## Subtopic
-
 ## Sources and Further Reading
 * http://www.ruby-doc.org/core-2.1.2/Symbol.html
 * http://www.troubleshooters.com/codecorn/ruby/symbols.htm
