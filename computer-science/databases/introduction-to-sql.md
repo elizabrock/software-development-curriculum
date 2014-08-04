@@ -1,16 +1,40 @@
 # Introduction to SQL
 
+SQL (Structured Query Language) is a query language designed specifically for interacting with relational databases.
+
+SQL is pronounced "ess queue el" or "sequel".
+
 ## Data Types
+
+Booleans have three possible values (true, false, null)
 
 ## Queries
 
 ### SELECT
+
+SELECT *columns* FROM *table* WHERE *conditions*;
+
+#### AS
+
+SELECT *column* AS *alternate_name* FROM *table* WHERE *conditions*;
 
 ### FROM
 
 ### Joins
 
 ### WHERE
+
+AND, OR, NOT, IS NULL, IS NOT NULL
+
+<, >, <=, >=, = (no double equals)
+
+Patterns: % (multiple char) _ (single char)
+
+#### LIKE
+
+(from RH slides:)
+
+`SELECT name FROM customer WHERE phone LIKE '%555-___'`
 
 ### GROUP BY
 

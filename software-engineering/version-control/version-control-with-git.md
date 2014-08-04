@@ -30,6 +30,8 @@ You should know how to:
   * Looking at all of your commits (and --pretty=oneline)
   * Interactive add changes
 
+![](https://rawgit.com/pastjean/git-cheat-sheet/master/git-cheat-sheet.svg)
+
 See more at: http://gitimmersion.com
 
 ## .gitignore
@@ -48,3 +50,14 @@ Global .gitignore files are great for ignoring operating system specific files (
 If you're having trouble seeing certain files in OS X Finder, you'll want to enable viewing hidden files:
 
 * http://mac.tutsplus.com/tutorials/os-x/quick-tip-revealing-hidden-files-in-os-x/
+
+## Resources for when things go wrong:
+
+* [On undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html)
+* [Seriously, The Reflog Isn’t That Scary
+Harnessing the power of git-reflog for good](https://medium.com/@./seriously-the-reflog-isnt-that-scary-a4189dd88c40)
+
+## Sources & Further Reading:
+
+* [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
+* [GitRef.org](http://gitref.org/)
