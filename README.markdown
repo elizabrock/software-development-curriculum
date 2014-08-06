@@ -75,3 +75,12 @@ Completion Status:
 * Make sure to clear out the Regular Expressions folder
 * More details on the git commands in the version control article
 * Reference: http://24ways.org/2013/git-for-grownups/
+
+
+## Diagramming Tools:
+
+* [Best Practice UX Forms Stencil v2.0](https://www.graffletopia.com/stencils/686)
+* [State Transitions](https://www.graffletopia.com/stencils/1005)
+* [Website Flowcharts](https://www.graffletopia.com/stencils/1100)
+* [Non-techie Process Diagram / Flowchart 1.1](https://www.graffletopia.com/stencils/497)
+* [git diagrams](https://www.graffletopia.com/stencils/581)

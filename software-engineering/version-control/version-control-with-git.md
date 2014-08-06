@@ -61,3 +61,4 @@ Harnessing the power of git-reflog for good](https://medium.com/@./seriously-the
 
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 * [GitRef.org](http://gitref.org/)
+* [GitHub Guides](https://guides.github.com/)
