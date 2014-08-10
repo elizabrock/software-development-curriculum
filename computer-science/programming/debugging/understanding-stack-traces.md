@@ -8,6 +8,12 @@ Stack traces are how they make sure you don’t forget.
 
 Being able to understand stack traces is a very valuable skill!
 
+## Anatomy of a Stack Trace
+
+Stack traces start with a error type (from the example below, ZeroDivisionError), then a message (from the example below, "divided by 0") and then the full stack trace.
+
+The stack traces describes the full call stack.  For now, you can think of the call stack as the list of methods in the program that haven't yet returned, and the methods that they are waiting for results from, listed with the most recently called methods on top. Call stacks are read from top to bottom.
+
 ## First Example:
 
     1.9.3-p194 :019 > b/a
@@ -94,7 +100,7 @@ Start by describing the error type, then the message and finally, what line numb
 * Message: undefined method `size' for nil:NilClass
 * Line Number: line 15 of the irb session
 
-## Fix:
+### Fix:
 
 Add a guard to make sure that b isn't nil.
 
@@ -143,7 +149,7 @@ Start by describing the error type, then the message and finally, what line numb
 * Message: wrong number of arguments(1 for 0)
 * Line Number: line 13 of the irb session
 
-## Fix:
+### Fix:
 
 Read the docs to figure out how strip works (http://www.ruby-doc.org/core-2.1.1/String.html#method-i-strip) and then remove the argument to strip:
 
@@ -174,7 +180,7 @@ Start by describing the error type, then the message and finally, what line numb
 * Message: index 4 outside of array bounds: -3...3
 * Line Number: line 10 of the irb session
 
-## Fix:
+### Fix:
 
 Switch to using the bracket accessor `[]`, which doesn't throw ArgumentErrors when you ask for items outside of the array length.  Or, we could make sure that our argument is a valid value.
 
@@ -195,7 +201,7 @@ Switch to using the bracket accessor `[]`, which doesn't throw ArgumentErrors wh
 * Message: syntax error, unexpected $end, expecting keyword_end
 * Line Number: /Users/keith/snip/lib/tab_delimited_importer.rb:19
 
-## Fix:
+### Fix:
 
 This error is telling us that there is a syntax error somewhere around line 19 of `tab_delimited_importer.rb`.
 
