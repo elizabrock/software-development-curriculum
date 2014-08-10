@@ -13,6 +13,17 @@ The students have a strong focus on the end-result of being professional softwar
 * Client work?
 * APIs?
 
+#### Student Responses (Cohort Blueberry):
+
+* Jade
+* Node
+* Mongo
+* Ajax
+* jQuery & some jQuery UI
+* Modules (javascript)
+* APIs
+* Unit testing (some)
+
 ## The Goal:
 
 Hirable Junior Developers that can maintain and develop Ruby/Rails applications.
