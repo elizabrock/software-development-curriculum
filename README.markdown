@@ -55,23 +55,22 @@ I (Eliza) have rewritten the repository history to remove the large files that c
 
 Completion Status:
 
-    | date          | files  | % complete |
-    | 6/22, 11:00AM | 6/918  | 0.65%      |
-    | 7/06, 12:45AM | 21/826 | 2.54%      |
-    | 7/06, 11:45AM | 34/818 | 4.15%      |
-    | 7/07,  3:00PM | 45/803 | 5.60%      |
-    | 7/11,  4:01PM | 62/775 | 8.00%      |
-    | 7/17,  9:30AM | 72/729 | 9.87%      |
-    | 7/26, 11:40AM | 78/733 | 10.64%     |
-    | 8/02, 11:15AM | 95/609 | 15.59%     |
+    | date          | files   | % complete |
+    | 6/22, 11:00AM | 6/918   | 0.65%      |
+    | 7/06, 12:45AM | 21/826  | 2.54%      |
+    | 7/06, 11:45AM | 34/818  | 4.15%      |
+    | 7/07,  3:00PM | 45/803  | 5.60%      |
+    | 7/11,  4:01PM | 62/775  | 8.00%      |
+    | 7/17,  9:30AM | 72/729  | 9.87%      |
+    | 7/26, 11:40AM | 78/733  | 10.64%     |
+    | 8/02, 11:15AM | 95/609  | 15.59%     |
+    |               | 117/573 | 20.42%     |
 
 ## TODO:
 
-* Clean out strings folder
 * Reference the methods article from the RDoc folder
 * Make sure to clean out the arrays folder
 * Make sure to clear out the hashes folder
-* Make sure to clear out the stacks/queues folder
 * Make sure to clear out the Regular Expressions folder
 * More details on the git commands in the version control article
 * Reference: http://24ways.org/2013/git-for-grownups/

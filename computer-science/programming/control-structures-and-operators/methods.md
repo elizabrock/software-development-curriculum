@@ -1,14 +1,14 @@
-#Methods
+# Methods
 
 To quote *Why's Poignant Guide to Ruby*:
 
->If variables and constants are the nouns, then methods are the verbs.
+> If variables and constants are the nouns, then methods are the verbs.
 
 Methods are exactly like verbs: they tell the class that they are a in to do something.
 
 Don't forget to read the RDoc on them!
 
-##Anatomy of a Method
+## Anatomy of a Method
 
 Here is an example of a simple `paint` method in the `Door` class:
 
@@ -25,7 +25,7 @@ Here is an example of a simple `paint` method in the `Door` class:
 
 In order to create a method, start with `def`, followed by the name of the method. After writing your code under this line (and indented), close the method with `end`.
 
-##Calling Methods
+## Calling Methods
 
 After initializing your class and setting it to a variable, all methods within said class are available to be performed on that variable.
 
@@ -41,9 +41,9 @@ Below is an example of a common way of calling methods:
 
 Note that for option 1, parentheses are required immediately after the name of the method, while in option 2, a space after the method name is all that's needed. While both are valid, keep in mind the readability of your code and which variables belong to which method.
 
-##Arguments
+## Arguments
 
-###Default Arguments
+### Default Arguments
 
 Sometimes, methods will call for multiple arguments. These emthods can have default values set for them if no argument is passed in when the method is called.
 
@@ -74,7 +74,7 @@ When we call `paint` now, we can pass in our own `dry_time` value, or leave it b
     front_door.paint 'red'
 
 
-###Variable Arguments
+### Variable Arguments
 
 When writing methods, a set number of arguments is not always necessary. Using `*` in front of the name of your variable will tell the method that any number of arguments may be passed in.
 
@@ -99,7 +99,7 @@ Below is another Home-Depot-related example, where we pass in the `materials` us
     # Number of aruments is irrelevant; they will all be processed
     House.materials('wood')
 
-##Return
+## Return
 
 Returns in methods are quite simple: if `return` is not explicity used in the method, then the last argument or boolean value will be returned.
 
@@ -123,7 +123,7 @@ Here is an example:
       # More code ...
     end
 
-##Private Methods
+## Private Methods
 
 Sometimes methods are only required for in-Class operations, and their results should not be made available to the end user. This is what private methods do: they make certain methods only accessible from within the class.
 

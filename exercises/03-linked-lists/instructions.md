@@ -34,6 +34,12 @@ The stubbed classes that you are to implement are in the /lib directory.
 
 I have numbered the unit tests to give you a hint at the easiest implementation order.
 
+### General Instructions:
+
+1. _Fork_ my linked list repo.
+2. Clone _your_ fork.
+3. Push things up as you complete them. (e.g. multiple times per milestone)
+
 Caveats
 -------
 
