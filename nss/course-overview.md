@@ -74,7 +74,6 @@ In order to attain the goals above, quite a few skills are required.
 
 This is a Rails course, right?
 
-
 So, why are we doing Ruby first-  
 and for so very long?
 

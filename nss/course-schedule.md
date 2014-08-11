@@ -1,6 +1,10 @@
 Software Development Fundamentals with Ruby and Rails
 ====
 
+## Topics
+
+![](class-topic-outline.jpg)
+
 ## Teaching Style
 
 This course is taught in a fairly free-form manner.  We have a list of topics and exercises that we will be working through, however I typically cover topics based on when students ask questions that lead us into that material.
@@ -9,9 +13,10 @@ This course is taught in a fairly free-form manner.  We have a list of topics an
 
 The class will consist of 4 units over 12 weeks.
 
-Instructional time from 9AM to 12PM, daily.
+Typically the schedule is:
 
-Lab time from 1PM to 4PM, daily.
+* Instructional time from 9AM to 12PM, daily.
+* Lab time from 1PM to 4PM, daily.
 
 Each day generally starts with standup and then continues with lecture topics with discussion time and breaks.
 

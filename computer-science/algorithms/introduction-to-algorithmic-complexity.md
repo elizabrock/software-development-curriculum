@@ -8,7 +8,7 @@ What it boils down to is: “How expensive is this algorithm?”
 
 > Big O is the most commonly used asymptotic notation for comparing functions (Wikipedia)
 
-Big-O is the most common way to convey how expensive (or cheap) an algorithm is.  Depending on the size of your program's input and the constraints of your processing power, storage, or memory, different algorithms will perform better.
+Big-O is the most common way to convey how expensive (or cheap) an algorithm is.  Depending on the size of your program's input and the constraints of your processing power (CPU), storage (Disk space), or memory (RAM), different algorithms will perform better.
 
 ### A tool for selecting algorithms
 
