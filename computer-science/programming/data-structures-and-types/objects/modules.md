@@ -1,4 +1,4 @@
-# Modules
+# Introduction to Modules
 
 ### Definition Part 1:
 Ruby modules allow you to create groups of methods that you can * include *
