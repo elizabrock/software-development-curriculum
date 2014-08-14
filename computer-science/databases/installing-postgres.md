@@ -1,11 +1,4 @@
-http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/#step-1
-
-# Setting Up Your Rails Environment
-
-## RVM (Ruby Version Manager)
-
- This will install RVM, Ruby and Rails all at once:
- `\curl -sSL https://get.rvm.io | bash -s stable --ruby --rails`
+# Installing Postgres
 
 ## Postgres
 
@@ -16,18 +9,18 @@ http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac
 
 ### Installing Postgres Ubuntu
 
- `sudo apt-get install postgresql postgresql-contrib`
- `sudo -u postgres createuser YOUR_SYSTEM_USER_NAME`
- If you get the message 'shall this user be a superuser Y/n?',
- then enter Y and you are done otherwise continue to the next step.
- `sudo /etc/init.d/postgresql reload`
- `sudo -u postgres psql -d template1`
- psql (9.3.4)
- Type "help" for help.
- template1=# `ALTER ROLE pete WITH CREATEDB;`
- ALTER ROLE
- template1=# `\q`
- `sudo /etc/init.d/postgresql reload`
+     `sudo apt-get install postgresql postgresql-contrib`
+     `sudo -u postgres createuser YOUR_SYSTEM_USER_NAME`
+     If you get the message 'shall this user be a superuser Y/n?',
+     then enter Y and you are done otherwise continue to the next step.
+     `sudo /etc/init.d/postgresql reload`
+     `sudo -u postgres psql -d template1`
+     psql (9.3.4)
+     Type "help" for help.
+     template1=# `ALTER ROLE pete WITH CREATEDB;`
+     ALTER ROLE
+     template1=# `\q`
+     `sudo /etc/init.d/postgresql reload`
 
 ## Further Reading
 
