@@ -11,11 +11,11 @@
 
 ### Cohort 3, Integer Overflows
 
-![Integer Overflows](cohort-3-integer-overflows.JPG)
+![Integer Overflows](cohort-3-integer-overflows.jpg)
 
 ### Cohort 4, Addition in Assembly
 
-![Assembly](IMG_3840.JPG)
+![Assembly](cohort-4-addition-in-assembly.jpg)
 
 ## Sources:
 
