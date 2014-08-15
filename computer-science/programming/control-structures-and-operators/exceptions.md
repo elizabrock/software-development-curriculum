@@ -1,6 +1,6 @@
-# About Exceptions
+# Exceptions
 
-##What are exceptions?
+## What are exceptions?
 
 An exception is an event that occurs when an error arises within your program. It can cause your program to quit immediately with an error message, or it can be handled by error-handling routines within the program. An exception is a packaged into a special kind of object and is an instance of the class Exception or a descendent of that class.
 
