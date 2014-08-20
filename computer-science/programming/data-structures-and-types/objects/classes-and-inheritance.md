@@ -123,7 +123,7 @@ All classes have a link to a superclass. If you don’t explicitly inherit from 
 
 Even though all classes eventually lead back to *Object*, the highest class in ruby's inheritance hierarchy is *BasicObject*. BasicObject is an explicit blank class that is used for creating new object hierarchies independent of Ruby's object hierarchy. Below is a basic diagram to help describe what we have been discussing (note - Animal and Dog classes are examples of custom classes).
 
-![](../../../../computer-science/programming/data-structures-and-types/objects/img/inheritance_diagram.png)
+![](inheritance-diagram.png)
 
 In this example where the classes *Animal* and *Dog* have been created, we could write out the inheritance chain like this: Dog < Animal < Object < BasicObject. Fido is an instance of the class Dog, just as the number 3 is an instance of the built-in Ruby class *Fixnum*.
 
