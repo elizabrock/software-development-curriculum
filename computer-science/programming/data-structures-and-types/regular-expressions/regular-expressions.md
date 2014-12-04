@@ -199,3 +199,9 @@ plus the text matched by all capturing groups.
 * http://rubular.com/
 * http://www.ruby-doc.org/core-2.1.2/Regexp.html
 * http://www.regular-expressions.info/ruby.html
+* [Lea Verou: Demystifying Regular Expressions](http://www.youtube.com/watch?v=EkluES9Rvak)
+
+### TODO:
+
+![](regex1.png)
+![](regex2.png)

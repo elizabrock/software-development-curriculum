@@ -199,3 +199,12 @@ The result of calling *son.altered()* will be:
 * [Ruby User Guide to Inheritance](http://www.rubyist.net/~slagell/ruby/inheritance.html)
 * [Ruby Inheritance - rubylearning.com](http://rubylearning.com/satishtalim/ruby_inheritance.html)
 * [Understanding the Ruby Object Model](http://skilldrick.co.uk/2011/08/understanding-the-ruby-object-model/)
+
+
+### TODO
+
+![](oop-intro.jpg)
+![](oop-circles1.jpg)
+![](oop-circles2.jpg)
+![](oop-inheritance-exercise.jpg)
+![](oop-inheritance-scoping.jpg)

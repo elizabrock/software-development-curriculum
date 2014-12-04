@@ -88,3 +88,9 @@
 
 ##Further Reading
 * [RubyDoc - Arrays] (http://www.ruby-doc.org/core-2.1.2/Array.html)
+
+## TODO
+
+![](avh1.png)
+![](avh2.png)
+![](avh3.png)
