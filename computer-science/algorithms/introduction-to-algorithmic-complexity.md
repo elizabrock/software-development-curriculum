@@ -1,3 +1,5 @@
+<!-- TODO: https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04 -->
+
 # Introduction to Algorithmic Complexity
 
 >  In computer science, big O notation is used to classify algorithms by how they respond (e.g., in their processing time or working space requirements) to changes in input size. (Wikipedia)
