@@ -1,4 +1,5 @@
-# About True and False
+# Booleans in Ruby
+
 Every expression and object in Ruby has a boolean value evaluating to either true or false and everything is true in ruby except false and nil
 
 ## True and False

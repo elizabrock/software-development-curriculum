@@ -1,4 +1,4 @@
-# Logic
+# Basic Logic
 
 Logic is, broadly speaking, the application of reasoning to an activity or concept.  In Computer Science, we primarily use deductive reasoning (a.k.a. deductive logic) along with boolean algebra (e.g. two-valued logic).
 
