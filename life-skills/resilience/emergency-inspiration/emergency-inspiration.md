@@ -1,5 +1,7 @@
 # Emergency Inspiration
 
+https://medium.com/@sanjayginde/programming-is-failure-b4c8a249e70f
+
 [Unstuck Best Of 2013](Unstuck_BestOf2013.pdf)
 
 ![](rickbradley-doing.png)
@@ -20,3 +22,5 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![](imgur-users versus engineers.gif)
+
+http://stilldrinking.org/programming-sucks
