@@ -1,3 +1,5 @@
+# Being a Successful Junior Developer
+
 http://happybearsoftware.com/how-to-survive-your-first-year-as-a-programmer.html
 
 
