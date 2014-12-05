@@ -15,3 +15,4 @@ Check out Laziness Impatience Hubris (linked below).
 
 * [Wikipedia: Four stages of competence](http://en.wikipedia.org/wiki/Four_stages_of_competence)
 * [Laziness Impatience Hubris](http://c2.com/cgi/wiki?LazinessImpatienceHubris)
+* [Purpose Practice](Purpose_Practice.pdf)
