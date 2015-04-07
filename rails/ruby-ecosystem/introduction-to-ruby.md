@@ -8,30 +8,30 @@ The Ruby language was developed by Yukihiro Matsumoto (Matz), beginning in 1993.
 
 You can read much more in-depth summaries of the Ruby language on Wikipedia and the official Ruby website (referenced, below).
 
-## Installing Ruby 2.1.1
+## Installing Ruby 2.2.0
 
-The most current version of Ruby is 2.1.1.  However, most operating systems don't ship with Ruby 2, so you'll need to install Ruby 2.1.1.
+The most current version of Ruby is 2.2.0.  However, most operating systems don't ship with Ruby 2, so you'll need to install Ruby 2.2.0.
 
 There are some fairly major changes between versions of Ruby, so it is important that you are using a modern Ruby.
 
 Regardless of whether you are using OS X or Ubuntu, I recommend using [RVM](http://rvm.io) to manage your ruby versions.
 
 1. Run `ruby -v`.
-  * If it prints out something involving '2.1', you're good to go.
+  * If it prints out something involving '2.2', you're good to go.
   * Otherwise, keep following these directions.
 2. Run `rvm`.
   * If it returns `-bash: rvm: command not found`, install rvm.
   * Instructions for installing rvm can be found here: http://rvm.io/
-3. Run `rvm install 2.1.1`
-  * RVM will compile ruby 2.1.1 for you.
+3. Run `rvm install 2.2.0`
+  * RVM will compile ruby 2.2.0 for you.
   * If the compilation isn't successful, ask for help!  You can also google the error messages.
-4. Run `rvm use --default 2.1.1`
-  * It should print out something along the lines of: `Using /Users/elizabrock/.rvm/gems/ruby-2.1.1`
+4. Run `rvm use --default 2.2.0`
+  * It should print out something along the lines of: `Using /Users/elizabrock/.rvm/gems/ruby-2.2.0`
   * If it doesn't, ask for help!
-5. Run `ruby -v`.  It should now be 2.1.1.
+5. Run `ruby -v`.  It should now be 2.2.0.
 6. Close your terminal completely and then open a new terminal window.
 Cross your fingers.
-7. Run `ruby -v`.  It should still be 2.1.1.
+7. Run `ruby -v`.  It should still be 2.2.0.
 
 ## Exploring Ruby with irb
 
