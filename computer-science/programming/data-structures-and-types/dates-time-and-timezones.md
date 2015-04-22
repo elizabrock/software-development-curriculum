@@ -1,6 +1,6 @@
 # Dates, Time and Time Zones
 
-Time is amazingly complicated.
+Time is amazingly complicated. Suck it up, buttercup.
 
 ## Date and Time Formats
 
