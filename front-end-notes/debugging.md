@@ -13,9 +13,7 @@ There are several useful shortcuts for opening the DevTools:
 
 ##Working with the Console
 The JavaScript Console provides two primary functions for developers testing web pages and applications. It is a place to:
-  * Log diagnostic information in the development process.
-  * A shell prompt which can be used to interact with the document and DevTools.
-  * You may log diagnostic information using methods provided by the Console API. Such as console.log().
+  * Log diagnostic information in the development process. A shell prompt which can be used to interact with the document and DevTools. You may log diagnostic information using methods provided by the Console API. Such as console.log().
   * You can evaluate expressions directly in the console and use the methods provided by the Command Line API. These include $() command for selecting elements.
 
 
