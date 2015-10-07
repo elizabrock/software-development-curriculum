@@ -1,5 +1,7 @@
 #Prototypal Inheritance
 
++Prototypal inheritance is a feature that allows JavaScript objects to 'inherit' properties from the object used to create them. This is a great way to streamline object production and avoid repetitive code. 
++
 ###This example comes from Steve's JS102 Codepen Example
 
 ####Tasks
@@ -12,13 +14,13 @@
 Create a function, Make, that has a property of makeName and give it the value of your vehicle's make.
 
 ``function Make() {
-  this.makeName = "Accura";
+  this.makeName = "Toyota";
 }``
 
 Create a function, Model, to hold the corresponding property and value
 
 ``function Model() {
-  this.model = "2.5 TL";
+  this.model = "Camry";
 }``
 
 What is the prototype of a Model?
@@ -50,7 +52,10 @@ Create the third car
 #Links:
 
 ###MDN - [Inheritance and the Prototype Chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-###Douglas Crockford - [Prototypical Inheritence](http://javascript.crockford.com/prototypal.html)
+###Douglas Crockford - [Prototypal Inheritence](http://javascript.crockford.com/prototypal.html)
+###[Javascript Tutorial - Prototypal Inheritance](http://javascript.info/tutorial/inheritance)
 
 #Video Tutorials
-###[JavaScript Prototypal Inheritance](https://www.youtube.com/watch?v=qMO-LTOrJaE) 
+###[JavaScript Prototypal Inheritance](https://www.youtube.com/watch?v=qMO-LTOrJaE)
+###[JavaScript Tutorial - Inheritance and Prototype Chain](https://www.youtube.com/watch?v=RFWvIEVZ_j8)
+###[Javascript -- Prototypes, Prototypal Inheritance Done Right.](https://www.youtube.com/watch?v=Yvf_kUBZmXg)
