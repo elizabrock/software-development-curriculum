@@ -24,8 +24,8 @@ Scope is an object that refers to the application model. It is an execution cont
 ```$scope.firstName = "John";
     $scope.lastName = "Doe";```
 
-###Service
-Use Service when you need just a simple object such as a Hash, for example {foo:1, bar:2} It's easy to code, but you cannot instantiate it. A service is an injectable constructor. If you want you can specify the dependencies that you need in the function. A service is a singleton and will only be created once by AngularJS. Services are a great way for communicating between controllers like sharing data.
+###Services
+Use a service when you need just a simple object such as a Hash, for example {foo:1, bar:2} It's easy to code, but you cannot instantiate it. A service is an injectable constructor. If you want you can specify the dependencies that you need in the function. A service is a singleton and will only be created once by AngularJS. Services are a great way for communicating between controllers like sharing data.
 
 ```js
 angular.module('app' ,[]);
@@ -39,7 +39,7 @@ angular.module('app' ,[]);
 });
 ```
 
-####Factory
+####Factories
 
 A factory is a service that can be injected as a function. A factory is a lot like a service in the sense that it is a singleton and dependencies can be specified in the function. The difference between a factory and a service is that a factory injects a plain function so AngularJS will call the function and a service injects a constructor. A constructor creates a new object so new is called on a service and with a factory you can let the function return anything you want. As you will see later on, a factory is a provider with only a $get method.
 
