@@ -52,3 +52,5 @@ Create the third car
 ###MDN - [Inheritance and the Prototype Chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 ###Douglas Crockford - [Prototypical Inheritence](http://javascript.crockford.com/prototypal.html)
 
+#Video Tutorials
+###[JavaScript Prototypal Inheritance](https://www.youtube.com/watch?v=qMO-LTOrJaE) 
