@@ -98,3 +98,9 @@ Now we add the `filter` condition to our `ng-repeat` helper. Since we used `ng-m
   </ul>
 </div>
 ```
+
+###Partials
+
+
+##Sources
+http://www.tomdalling.com/blog/software-design/model-view-controller-explained/
