@@ -49,5 +49,3 @@ http://www.w3schools.com/css/css_attribute_selectors.asp
 ### CSS HTML ATTRIBUTE SELECTORS
 * This cheat-sheet helps you chose the right selector to target the HTML you want to style.
 http://www.w3schools.com/css/css_attribute_selectors.asp
-
-
