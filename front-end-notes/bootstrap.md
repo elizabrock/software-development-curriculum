@@ -3,15 +3,19 @@ Bootstrap is a framework that allows developers to make front-end content more u
 
 Bootstrap includes a responsive, mobile first fluid grid system that appropriately scales up to 12 columns as the device or viewport size increases. It includes predefined classes for easy layout options for example btn for buttons.
 
-NSS Cohort 10 learned Bootstrap v3.3.5 but [v4 alpha](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/) is out with 4 beta being released soon.
+NSS Cohort 10 learned Bootstrap [v3.3.5](http://getbootstrap.com/) but [v4 alpha](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/) is out with 4 beta being released soon.
 
 ##Remember This
+- Grid system is divided into rows and each row can have up to 12 columns.
 
--If using the JS functionality with Bootstap must have jQuery installed in the application.
+- There can only be one container per page when using the grid system.
 
--Media queries can be used to customize styling device screan widths.
+- The Bootstrap class can be added directly to your html tags to provide the desired styling (it's that easy).
 
--Grid system is divided into rows and each row can have up to 12 columns.
+- If using the javascript functionality with Bootstap jQuery must be  installed in the application.
+
+- Media queries can be used to customize styling according to device screan widths.
+
 
 ##Installation
 Bootstrap can be installed with Bower or npm as outlined in the getting started documenation found [here](http://getbootstrap.com/getting-started/).
