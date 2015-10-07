@@ -79,3 +79,21 @@ angular.module('app', []);
   };
 };
 ```
+
+### Filters
+
+Let's filter our list of Todos. Add an input field where we can enter in some text.
+
+```html
+<input type="text" ng-model="searchText" />
+```
+
+Now we add the `filter` condition to our `ng-repeat` helper. Since we used `ng-model` above to create a two-way binding on the `searchText` variable, Angular will automatically match your search string against **any** key in the Todo 
+
+```html
+<div>
+  <ul ng-repeat="todo in todos | filter: searchText">
+    <li>{{todo.name}}</li>
+  </ul>
+</div>
+```
