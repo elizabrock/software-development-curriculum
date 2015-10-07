@@ -37,3 +37,30 @@ This is a partial list of project ideas that have been considered (or implemente
 * Markov chains (maybe not the best for db)
 * Drink Suggestions (recipes based on ingredients on hand)
 * Restaurant Picker
+
+
+## Cohort Blueberry Projects:
+
+* Will - I spy with my little eye (via. Instagram)
+* Andrew - LoL character simulator
+* Matt O. - TeeTime - Golf platonic matchmaking
+* Carter - Personal Lending Library
+* Richmond - JSFiddle Clone
+* Seth - Video LMS
+* Amber - Recipe Tracker
+* MaRisa - Concert Managment
+* Chad - Foursquare of Baseball
+* Adam - Boss Stalker
+* Jack - Farm Tool Sharing (w/ Tractor pictures)
+* Bob - Music Pitcher
+* Kristian - /r/news
+* Aaron - Farm Recordkeeping (Starts w/ Spray Records, then costs/yield/income per acre)
+* Terrence - Not Bored Tonight - Activity Suggestion w/ API-based suggestions
+* Matt S. - Hot or Not, Home Edition
+* Nathan - Debt Snowball Tracker
+* Wes - D&D Character Builder
+* Courey - Social Service Database
+* Kelley - Hot or Not, Clothes Edition
+* Samantha - Phonathon Managment
+* Alex
+* Rachel

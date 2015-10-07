@@ -1,0 +1,35 @@
+Last login: Tue Feb  4 20:04:58 on ttys006
+You have mail.
+elizabrock@Elizas-MacBook-Pro-2:~$ cd Projects/nss-capstone-2-example/
+RVM used your Gemfile for selecting Ruby, it is all fine - Heroku does that too,
+you can ignore these warnings with 'rvm rvmrc warning ignore /Users/elizabrock/Projects/nss-capstone-2-example/Gemfile'.
+To ignore the warning for all files run 'rvm rvmrc warning ignore allGemfiles'.
+
+elizabrock@Elizas-MacBook-Pro-2:~/Projects/nss-capstone-2-example(master)$ gst
+# On branch master
+nothing to commit, working directory clean
+elizabrock@Elizas-MacBook-Pro-2:~/Projects/nss-capstone-2-example(master)$ git tag -a pure_sql_pre_activerecord
+elizabrock@Elizas-MacBook-Pro-2:~/Projects/nss-capstone-2-example(master)$ git push --tags
+Counting objects: 1, done.
+Writing objects: 100% (1/1), 207 bytes | 0 bytes/s, done.
+Total 1 (delta 0), reused 0 (delta 0)
+To git@github.com:elizabrock/nss-capstone-2-example.git
+ * [new tag]         pure_sql_pre_activerecord -> pure_sql_pre_activerecord
+elizabrock@Elizas-MacBook-Pro-2:~/Projects/nss-capstone-2-example(master)$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
