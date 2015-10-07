@@ -106,6 +106,11 @@ Partials are a way to link the view (html) to the model and controller using two
 1. When properties in the model get updated, so does the UI.
 2. When UI elements get updated, the changes get propagated back to the model.
 
+###Directives
+Directives in AngularJS are used to make custom HTML elements and simplify DOM manipulation. They can modify the behavior of new and existing DOM elements, by adding custom functionality, like a datepicker or an autocomplete widget. AngularJS comes with its own set of built-in directives, as well as the ability to add your own ones.
+#####More information on directives:
+http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/
+
 ##Sources
 * https://docs.angularjs.org/api?PHPSESSID=cae8e98e7ca559b4605d75c813b358ee
 * http://www.tomdalling.com/blog/software-design/model-view-controller-explained/
