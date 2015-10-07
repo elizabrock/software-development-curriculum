@@ -14,7 +14,7 @@ Bower is a package manager for the web.
 ## Installing Packages
 **Install packages individually** <br />
 <br />
-`$ bower intall <package name>`<br />
+`$ bower install <package name>`<br />
 <br />
 **Install multiple packages**<br />
 <br />
