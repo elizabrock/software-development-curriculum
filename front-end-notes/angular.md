@@ -101,7 +101,10 @@ Now we add the `filter` condition to our `ng-repeat` helper. Since we used `ng-m
 
 ### Partials
 
-Partials are a way to link the view (html) to the model and controller using two-way data-binding. 
+Partials are a way to link the view (html) to the model and controller using two-way data-binding.
+####Two-way data-binding just means that:
+1. When properties in the model get updated, so does the UI.
+2. When UI elements get updated, the changes get propagated back to the model.
 
 ##Sources
 https://docs.angularjs.org/api?PHPSESSID=cae8e98e7ca559b4605d75c813b358ee
