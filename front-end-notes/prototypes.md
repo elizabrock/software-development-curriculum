@@ -49,6 +49,5 @@ Create the third car
 
 #Links:
 
-###Douglas Crockford - Prototypical Inheritence
-<http://javascript.crockford.com/prototypal.html>
+###Douglas Crockford - [Prototypical Inheritence](http://javascript.crockford.com/prototypal.html)
 
