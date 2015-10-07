@@ -14,13 +14,13 @@ Prototypal inheritance is a feature that allows JavaScript objects to 'inherit' 
 Create a function, Make, that has a property of makeName and give it the value of your vehicle's make.
 
 ``function Make() {
-  this.makeName = "Accura";
+  this.makeName = "Toyota";
 }``
 
 Create a function, Model, to hold the corresponding property and value
 
 ``function Model() {
-  this.model = "2.5 TL";
+  this.model = "Corolla";
 }``
 
 What is the prototype of a Model?
