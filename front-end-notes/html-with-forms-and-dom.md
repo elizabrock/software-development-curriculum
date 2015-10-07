@@ -6,7 +6,6 @@ The Document Object Model (DOM) is a programming interface for HTML, XML and SVG
 
 Though often accessed using JavaScript, the DOM itself is not a part of the JavaScript language, and it can be accessed by other languages, though this is much less common.
 
-
 ##Basic HTML Starter Template
 
 ```
@@ -41,10 +40,13 @@ Though often accessed using JavaScript, the DOM itself is not a part of the Java
 HTML Forms are one of the main points of interaction between a user and a web site or application. They allow users to send data to the web site. Most of the time that data is sent to the web server, but the web page can also intercept it to use it on its own.
 
 ##Resources
+
 #####DOM
+
 * [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 * [How to Use The HTML5 Sectioning Elements](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
 
 #####Form
+
 * [List of Form Elements](http://www.w3schools.com/html/html_forms.asp)
 * [How to structure an HTML Form](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/How_to_structure_an_HTML_form)
