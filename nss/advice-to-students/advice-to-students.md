@@ -34,11 +34,15 @@ I get better at programming every time I teach.  There is no "done" when learnin
 
 As long as our skills are going up and to the right, we’re doing it right.  It doesn’t matter if you start out at 10% or 90%, as long as you’re learning.
 
+![](Click Presentation.009.jpg)
+
 ## Don't Compare Yourself
 
 While we’re at it, comparing yourself to your peers is a losing game.
 
 ### The Student Perception
+
+![](Click Presentation.010.jpg)
 
 This is a student’s perception of three of their peers.
 
@@ -46,29 +50,45 @@ It looks like the guy in the middle is a rock star, right?
 
 ### The Student Perception is Wrong
 
+![](Click Presentation.011.jpg)
+
 Nope. Novices can only really perceive each other’s confidence.  Not their actual skills.
 
 ### The Reality
+
+![](Click Presentation.012.jpg)
 
 The reality is that every student has a spectrum of skills that they’re working on.  Each person has strengths and weakness that can’t be summed up with a ranking.
 
 ### Dunning-Kruger
 
+![](Click Presentation.013.jpg)
+
 And, to top it off, people are just awful at self-evaluation.
 
 ## You Have to Do It, Not Read It
+
+![](Click Presentation.015.jpg)
 
 Trying to learn programming without actually programming is about as effective as trying learning to ride a bike without a bicycle.
 
 ## You Are Not Dumb
 
+![](Click Presentation.016.jpg)
+
 ## Your Job vs. My Job
 
 ### Your Job is to Aim Up and To The Right
 
+![](Click Presentation.017.jpg)
+
 ### My Job is to Get You Bunched Up
 
+![](Click Presentation.018.jpg)
+
 ## "Stupid" Questions Need Asking
+
+![](Click Presentation.019.jpg)
 
 There Are Stupid Questions.  Ask Them Anyway
 
@@ -77,3 +97,7 @@ You know when you're about to ask a stupid question.  What you don't know is tha
 Some people say "The only stupid question is the one you don't ask".  That is also true.
 
 ## Socratic Questioning is the Answer
+
+## Image Credits
+
+![](Click Presentation.020.jpg)
