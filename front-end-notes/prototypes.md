@@ -1,7 +1,7 @@
 #Prototypal Inheritance
 
-+Prototypal inheritance is a feature that allows JavaScript objects to 'inherit' properties from the object used to create them. This is a great way to streamline object production and avoid repetitive code. 
-+
+Prototypal inheritance is a feature that allows JavaScript objects to 'inherit' properties from the object used to create them. This is a great way to streamline object production and avoid repetitive code. 
+
 ###This example comes from Steve's JS102 Codepen Example
 
 ####Tasks
@@ -53,7 +53,7 @@ Create the third car
 
 ###MDN - [Inheritance and the Prototype Chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 ###Douglas Crockford - [Prototypal Inheritence](http://javascript.crockford.com/prototypal.html)
-###[Javascript Tutorial - Prototypal Inheritance](http://javascript.info/tutorial/inheritance)
+###Tutorial - [Prototypal Inheritance](http://javascript.info/tutorial/inheritance)
 
 #Video Tutorials
 ###[JavaScript Prototypal Inheritance](https://www.youtube.com/watch?v=qMO-LTOrJaE)
