@@ -47,9 +47,9 @@ Create the third car
 
 ``var thirdCar = new Car("gold");``
 
-Links:
+#Links:
 
-Douglas Crockford
-Prototypical Inheritence
-<http://javascript.crockford.com/prototypal.html>
+##Douglas Crockford
+###Prototypical Inheritence
+``<http://javascript.crockford.com/prototypal.html>``
 
