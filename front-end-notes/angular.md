@@ -110,3 +110,4 @@ Partials are a way to link the view (html) to the model and controller using two
 * https://docs.angularjs.org/api?PHPSESSID=cae8e98e7ca559b4605d75c813b358ee
 * http://www.tomdalling.com/blog/software-design/model-view-controller-explained/
 * https://thinkster.io/a-better-way-to-learn-angularjs
+* https://github.com/johnpapa/angular-styleguide
