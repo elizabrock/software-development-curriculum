@@ -10,6 +10,11 @@ The view is an interface to view and modify the data.
 ###Controller
 Controllers are operations that can be performed on the data.
 
+###Directives
+Directives in AngularJS are used to make custom HTML elements and simplify DOM manipulation. They can modify the behavior of new and existing DOM elements, by adding custom functionality, like a datepicker or an autocomplete widget. AngularJS comes with its own set of built-in directives, as well as the ability to add your own ones.
+#####More information on directives:
+http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/
+
 ###$scope
 Scope is an object that refers to the application model. It is an execution context for expressions. Scopes are arranged in hierarchical structure which mimic the DOM structure of the application. Scopes can watch expressions and propagate events.
 #####example:
@@ -100,16 +105,11 @@ Now we add the `filter` condition to our `ng-repeat` helper. Since we used `ng-m
 ```
 
 ### Partials
-
 Partials are a way to link the view (html) to the model and controller using two-way data-binding.
 ####Two-way data-binding just means that:
 1. When properties in the model get updated, so does the UI.
 2. When UI elements get updated, the changes get propagated back to the model.
 
-###Directives
-Directives in AngularJS are used to make custom HTML elements and simplify DOM manipulation. They can modify the behavior of new and existing DOM elements, by adding custom functionality, like a datepicker or an autocomplete widget. AngularJS comes with its own set of built-in directives, as well as the ability to add your own ones.
-#####More information on directives:
-http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/
 
 ##Sources
 * https://docs.angularjs.org/api?PHPSESSID=cae8e98e7ca559b4605d75c813b358ee
