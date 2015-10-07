@@ -11,7 +11,6 @@ jQuery is a fast, concise, JavaScript Library that simplifies how you traverse H
 - https://www.codeschool.com/paths/javascript
 - https://github.com/jquery/learn.jquery.com/blob/master/page/about-jquery/how-jquery-works.md
 
-
 ##lodash##
 
 A JavaScript utility library delivering consistency, modularity, performance, & extras.
