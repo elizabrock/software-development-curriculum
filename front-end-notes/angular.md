@@ -9,8 +9,8 @@ The view is an interface to view and modify the data.
 
 ###Controller
 Controllers are operations that can be performed on the data.<br>
-In Angular, a Controller is defined by a JavaScript constructor function that is used to augment the Angular Scope.
 
+In Angular, a Controller is defined by a JavaScript constructor function that is used to augment the Angular Scope.
 When a Controller is attached to the DOM via the ng-controller directive, Angular will instantiate a new Controller object, using the specified Controller's constructor function. A new child scope will be created and made available as an injectable parameter to the Controller's constructor function as $scope.
 
 ###Directives
