@@ -12,7 +12,7 @@ Controllers are operations that can be performed on the data.
 
 ###$scope
 Scope is an object that refers to the application model. It is an execution context for expressions. Scopes are arranged in hierarchical structure which mimic the DOM structure of the application. Scopes can watch expressions and propagate events.
-#####example
+#####example:
 ```$scope.firstName = "John";
     $scope.lastName = "Doe";```
 
