@@ -99,8 +99,11 @@ Now we add the `filter` condition to our `ng-repeat` helper. Since we used `ng-m
 </div>
 ```
 
-###Partials
+### Partials
 
+Partials are a way to link the view (html) to the model and controller using two-way data-binding. 
 
 ##Sources
+https://docs.angularjs.org/api?PHPSESSID=cae8e98e7ca559b4605d75c813b358ee
 http://www.tomdalling.com/blog/software-design/model-view-controller-explained/
+https://thinkster.io/a-better-way-to-learn-angularjs
