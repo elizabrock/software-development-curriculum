@@ -82,7 +82,8 @@ angular.module('app', []);
 
 ### Filters
 
-Let's filter our list of Todos. Add an input field where we can enter in some text.
+A filter formats the value of an expression for display to the user. They can be used in view templates, controllers or services and it is easy to define your own filter.
+####example:
 
 ```html
 <input type="text" ng-model="searchText" />
