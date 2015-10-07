@@ -23,7 +23,9 @@ SASS is a tool used to write CSS using programming concepts that don't regularly
 
 ## Usage
 SASS was installed via <a href="https://nodejs.org/en/" target="_blank">node</a>/<a href="https://www.npmjs.com/" target="_blank">npm</a> and uses <a href="http://gruntjs.com/" target="_blank">grunt</a> for compilation.
+
 With both installed the command _npm install grunt-contrib-sass --save_ will install SASS & add it to npm's _package.json_ file for easy future installation.
+
 With SASS installed, instead of writing vanilla CSS, you can write SCSS which is then compiled into CSS via this _sass_ task in your _Gruntfile.js_:
 ```
 sass: {
