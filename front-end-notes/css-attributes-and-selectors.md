@@ -36,7 +36,7 @@ Here are a few of our most helpful cheat-sheets that have LOTS of good informati
 ### CSS SELECTORS
 
 ​* This cheat-sheet has good information on the **TYPES** of selectors available to use for styling.
-http://www.w3schools.com/cssref/css_selectors.asp
+https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors
 
 ### CSS PROPERTIES
 * This is a great visual chart broken up into main catagories of properties. 
@@ -44,8 +44,8 @@ http://www.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-
 
 ### CSS SELECTOR SPECIFICITY
 * This link shows you how to target a single element.
-http://www.w3schools.com/css/css_attribute_selectors.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
 
 ### CSS HTML ATTRIBUTE SELECTORS
 * This cheat-sheet helps you chose the right selector to target the HTML you want to style.
-http://www.w3schools.com/css/css_attribute_selectors.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors
