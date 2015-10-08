@@ -6,7 +6,7 @@ A CSS selector is the part of a CSS rule set that actually selects the content y
 
 ```
 .red-background { ## This is the selector.
-  /* CSS rule goes here */
+  /* CSS declaration goes here */
 }
 ```
 
