@@ -50,13 +50,13 @@ Create the third car
 
 ``var thirdCar = new Car("gold");``
 
-##Links:
+###Links:
 
 ####MDN - [Inheritance and the Prototype Chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 ####Douglas Crockford - [Prototypal Inheritence](http://javascript.crockford.com/prototypal.html)
 ####Tutorial - [Prototypal Inheritance](http://javascript.info/tutorial/inheritance)
 
-#Video Tutorials
+###Video Tutorials
 ####[JavaScript Prototypal Inheritance](https://www.youtube.com/watch?v=qMO-LTOrJaE)
 ####[JavaScript Tutorial - Inheritance and Prototype Chain](https://www.youtube.com/watch?v=RFWvIEVZ_j8)
 ####[Javascript -- Prototypes, Prototypal Inheritance Done Right.](https://www.youtube.com/watch?v=Yvf_kUBZmXg)
