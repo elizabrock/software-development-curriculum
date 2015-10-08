@@ -57,6 +57,6 @@ Create the third car
 #####Tutorial - [Prototypal Inheritance](http://javascript.info/tutorial/inheritance)
 
 ####Video Tutorials
-#####JavaScript Prototypal Inheritance](https://www.youtube.com/watch?v=qMO-LTOrJaE)
+#####JavaScript Prototypal Inheritance- https://www.youtube.com/watch?v=qMO-LTOrJaE
 #####JavaScript Tutorial - [Inheritance and Prototype Chain](https://www.youtube.com/watch?v=RFWvIEVZ_j8)
 #####Javascript -- [Prototypes, Prototypal Inheritance Done Right.](https://www.youtube.com/watch?v=Yvf_kUBZmXg)
