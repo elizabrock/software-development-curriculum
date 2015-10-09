@@ -108,6 +108,7 @@ The general order in which I (Eliza) think cover database-related topics:
 
 ## Resources
 
+* [Jurnell's Intro to Databases Slide Deck](http://lectures.sophicware.com/database-basics/#1)
 * [Wikipedia: Database](http://en.wikipedia.org/wiki/Database)
 * [Wikipedia: Graph Databases](http://en.wikipedia.org/wiki/Graph_database)
 * [50 Shades of Graph: How Graph Databases Are Transforming Online Dating](http://www.forbes.com/sites/danwoods/2014/02/14/50-shades-of-graph-how-graph-databases-are-transforming-online-dating/)
