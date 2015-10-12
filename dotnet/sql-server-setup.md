@@ -22,28 +22,22 @@
 8. Click "Next"
 7. Click 'Next'
 9. Another set of checks. Wait, wait some more
-10. The installer will run some checks.  If one of them fails, click on the failure for details on how to correct the issue and correct the issue. Afterwards, restart the installation and return to step 1.
+10. The installer will run some checks.  If one of them fails, click on the failure for details on how to correct the issue and correct the issue. Afterwards, tell it to rerun the checks.
+11. Click "Next"
+12. "Please Wait" while more checks are run
+13. Click "Next"
+14. Click 'Next'
+15. Do some more waiting.
+16. Click "Close"
+17. Restart your computer
 
+## Verify Installation
 
-10. Click "Next"
-11. "Please Wait" while more checks are run
-12. 
-Click "Select All"
-Click "Next"
-Wait a short while
-Click "Next"
-Click "Next"
-Click "Next"
-Click "Next"
-Wait an interminable amount of time
-Click "Close"
-Restart your computer
-
-Open Microsoft SQL Server Management Studio
-The "Connect to Server" window will open
-Choose "Browse for More" from "Server Name"
-On the Local Servers tab, expand "Database Engine"
-Select "YOURUSERNAME/SQLEXPRESS"
-Click "Ok"
-Click "Connect"
-If you see "YOURUSERNAME/SQLEXPRESS" in the "Object Explorer" sidebar, you have won.
+1. Open Microsoft SQL Server Management Studio
+2. The "Connect to Server" window will open
+3. Choose "Browse for More" from "Server Name"
+4. On the Local Servers tab, expand "Database Engine"
+5. Select "YOURUSERNAME/SQLEXPRESS"
+6. Click "Ok"
+7. Click "Connect"
+8. If you see "YOURUSERNAME/SQLEXPRESS" in the "Object Explorer" sidebar, you have won.
