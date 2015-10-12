@@ -11,19 +11,23 @@
 
 ## Installer
 
-1. Click 'Ok'
+1. Click 'Yes' if asked whether to allow the installer to make changes
+1. Click 'Ok' to extract files
 2. Wait while things extract
 3. Click "New Sql Server stand-alone installation"
 4. Check 'I accept'
 5. Click 'Next'
-6. The installer will run some checks.  If one of them fails, correct the issue, then restart the installation and return to step 1.
+6. The installer will run some checks.  If one of them fails, click on the failure for details on how to correct the issue and correct the issue. Afterwards, restart the installation and return to step 1.
+7. Check "Use Microsoft Update to check for updates"
+8. Click "Next"
+7. Click 'Next'
+9. Another set of checks. Wait, wait some more
+10. The installer will run some checks.  If one of them fails, click on the failure for details on how to correct the issue and correct the issue. Afterwards, restart the installation and return to step 1.
 
-Wait some more
-Check "Include SQL Server updates"
-Click "Next"
-Wait, wait some more
-Check "I accept the license terms"
-Click "Next"
+
+10. Click "Next"
+11. "Please Wait" while more checks are run
+12. 
 Click "Select All"
 Click "Next"
 Wait a short while
