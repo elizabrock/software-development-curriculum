@@ -32,6 +32,8 @@
 
 If you have a Microsoft account, you will be prompted to sign in.  If not, you should be prompted to sign up.
 
+If prompted to choose development settings, choose the one for "C#"
+
 ## VS Screen 3
 
 "We're getting things ready for you".  Uh huh.  Likely story.  Regardless, you'll get to spend some more time waiting!
