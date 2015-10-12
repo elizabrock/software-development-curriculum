@@ -7,13 +7,14 @@
 2. Make sure you have a 4+ GB USB Drive, plugged in
 2. Close all programs
 3. If you have a CD drive, insert the Windows Installation disk
+4. If you don't have a CD drive, get a bootable installer thumb drive, and plug that in too.
 3. Open "Boot Camp Assistant.app"
 
 ### Screen 1 (Boot Camp Assistant)
 
 1. Check "Download the latest Windows support software from Apple"
 2. Check "Install Windows 7 or later"
-3. If you don't have an internal CD drive, check "Create a Windows 7 or later version install disk"
+3. Uncheck "Create a Windows 7 or later version install disk"
 4. Click 'Continue'
 
 If you don't see "or later" in those checkboxes, that means that your computer doesn't support Windows 8 installation directly.  See me for next steps.
