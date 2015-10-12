@@ -51,3 +51,11 @@ After the Windows installation process completes, the Boot Camp program will tur
 4. Wait a while
 
 Once it's done, it'll prompt you to restart.  Click 'Yes'
+
+------
+
+To switch from Windows to OS X, Click the Boot Camp icon in the system tray, then choose “Restart in Mac OS X.”
+
+To quickly switch from OS X to Windows, there are two options [QuickBoot](http://buttered-cat.com/products/view/quickboot) and [BootChamp](http://www.kainjow.com/).  I've used BootChamp in the past but it doesn't appear to work on El Capitan, yet.
+
+To choose which OS turns on when you power up your computer, hold down the option key while your computer is powering on.  A list of disk options will appear.
