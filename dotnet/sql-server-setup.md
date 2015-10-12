@@ -22,7 +22,7 @@
 8. Click "Next"
 7. Click 'Next'
 9. Another set of checks. Wait, wait some more
-10. The installer will run some checks.  If one of them fails, click on the failure for details on how to correct the issue and correct the issue. Afterwards, tell it to rerun the checks.
+10. The installer will run some checks.  If one of them fails, click on the failure for details on how to correct the issue and correct the issue.  If you need to install .Net Framework 3.5 SP 1, you can use [this link](http://www.microsoft.com/en-us/download/confirmation.aspx?id=22). Afterwards, tell it to rerun the checks.
 11. Click "Next"
 12. "Please Wait" while more checks are run
 13. Click "Next"
