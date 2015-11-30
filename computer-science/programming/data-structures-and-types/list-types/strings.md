@@ -215,9 +215,9 @@ Did you notice anything unusual? Yep, that's right: we never provided any input 
 
 ### Join
 
-What if we need to do the exact opposite of split? What if we have an array that needs to be converted into a string, element by element? You could always loop over the array and concatinate each element, but that's clunky, especially since there is already a way to do this with a single function: 'join'.
+What if we need to do the exact opposite of split? What if we have an array that needs to be converted into a string, element by element? You could always loop over the array and concatenate each element, but that's clunky, especially since there is already a way to do this with a single function: 'join'.
 
-Just as 'split' required a separator, 'join' reqires some string to insert between each element in the array. This time however, we use an actual string as our input, instead of a regular expression.
+Just as 'split' required a separator, 'join' requires some string to insert between each element in the array. This time however, we use an actual string as our input, instead of a regular expression.
 
     > joined_string = array2.join('::')
     => "red::orange::yellow::green::blue::purple"
@@ -318,6 +318,6 @@ The result not only looks like a string but can be treated as a string.
 
 * [Flexible Strings](http://stackoverflow.com/questions/22107174/is-there-a-difference-between-flexible-quotes-in-ruby) - (Although forums are not true reference material, the information here is useful) -
 
-* [String RDoc](http://www.ruby-doc.org/core-2.1.2/String.html)
+* The String RDoc
 * https://gist.github.com/kinopyo/5682347
 * http://briancarper.net/blog/98/

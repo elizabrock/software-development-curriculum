@@ -14,10 +14,9 @@ In order to explain where to find the documentation, we first need to clarify th
 
 For each of those types of code, there is a slightly different standard place to go to for documentation.
 
-  * Core library documenation is available at [ruby-doc.org](http://ruby-doc.org/core-2.1.2/) via the "Core 2.1.2" link in the site navigation.
-  * Standard library documentatation is available at [ruby-doc.org](http://ruby-doc.org/stdlib-2.1.2/) via the "Std-lib 2.1.2" link in the site navigation.
-  * Gem documentation is available via [rdoc.info](http://rdoc.info/), based on the name of the gem.  A local copy of the documenattion for gems you already have installed can be read by running `gem server` and then visiting [localhost:8080](http://localhost:8080) in your web browser.
-
+  * Core library documentation is available at [ruby-doc.org](http://ruby-doc.org/core-2.1.2/) via the "Core 2.1.2" link in the site navigation.
+  * Standard library documentation is available at [ruby-doc.org](http://ruby-doc.org/stdlib-2.1.2/) via the "Std-lib 2.1.2" link in the site navigation.
+  * Gem documentation is available via [rdoc.info](http://rdoc.info/), based on the name of the gem.  A local copy of the documentation for gems you already have installed can be read by running `gem server` and then visiting [localhost:8080](http://localhost:8080) in your web browser.
 
 ## Reading RDoc
 
