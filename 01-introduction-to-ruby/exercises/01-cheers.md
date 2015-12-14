@@ -9,6 +9,7 @@ that takes <strong>input</strong>
 and <strong>does something</strong> with it.
 
 ## Cheers, Pt. 1: In-class Exploration
+> requires: introduction-to-ruby
 
 This is an in-class exercise that we will do together.
 
