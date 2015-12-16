@@ -1,5 +1,7 @@
 # Job Search
 
+![](job-search-checklist.png)
+
 http://sivers.org/tarzan
 
 http://www.inc.com/drake-baer/why-you-should-always-make-first-offer-in-negotiation.html?cid=sf01001

@@ -11,7 +11,7 @@
 
 ### Cohort 3, Integer Overflows
 
-![Integer Overflows](cohort-3-integer-overflows.jpg)
+![Integer Overflows](cohort-3-integer-overflow.jpg)
 
 ### Cohort 4, Addition in Assembly
 
