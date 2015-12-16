@@ -64,7 +64,7 @@ Instance variables are hidden away inside the object. As you can see in this exa
 
 Every Object in Ruby has its own ID. That means each Object will have an ID that is unique to itself. If two different variables are set equal to what appears to be the same object, they will still have different IDs. For example:
 
-    obj = Object.new br
+    obj = Object.new
 
     another_obj = Object.new
 

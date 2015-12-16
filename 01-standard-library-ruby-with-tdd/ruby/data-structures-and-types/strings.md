@@ -316,8 +316,7 @@ The result not only looks like a string but can be treated as a string.
 
 * [About.com - Splitting Strings](http://ruby.about.com/od/strings/a/Splitting-Strings.htm)
 
-* [Flexible Strings](http://stackoverflow.com/questions/22107174/is-there-a-difference-between-flexible-quotes-in-ruby) - (Although forums are not true reference material, the information here is useful) -
-
+* [Flexible Strings](http://stackoverflow.com/questions/22107174/is-there-a-difference-between-flexible-quotes-in-ruby) - (Although forums are not true reference material, the information here is useful)
 * The String RDoc
 * https://gist.github.com/kinopyo/5682347
 * http://briancarper.net/blog/98/

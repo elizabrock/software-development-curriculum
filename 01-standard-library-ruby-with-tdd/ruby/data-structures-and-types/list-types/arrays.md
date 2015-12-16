@@ -86,11 +86,14 @@
         puts first_name #=> "John"
         puts last_name #=> "Smith"
 
-##Further Reading
-* [RubyDoc - Arrays] (http://www.ruby-doc.org/core-2.1.2/Array.html)
 
-## TODO
+## Contrasting Arrays and Hashes
+
+<!-- TODO: Expand this with explanations -->
 
 ![](avh1.png)
 ![](avh2.png)
 ![](avh3.png)
+
+## Further Reading
+* [RubyDoc for Arrays](http://www.ruby-doc.org/core-2.1.2/Array.html)

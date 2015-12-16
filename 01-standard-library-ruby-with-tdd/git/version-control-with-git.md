@@ -1,5 +1,7 @@
 # Version Control with Git
 
+You should have covered git in some detail in the previous class.  This is here to serve as a reference and refresher.
+
 <blockquote class="twitter-tweet" lang="en"><p>OH “you are not exactly git blameless here.”</p>&mdash; Justin Searls (@searls) <a href="https://twitter.com/searls/statuses/243768104813993984">September 6, 2012</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -53,6 +55,8 @@ If you're having trouble seeing certain files in OS X Finder, you'll want to ena
 
 ## Resources for when things go wrong:
 
+Start with [gitpretty.pdf](git-pretty.pdf), and then take a look at the links below.
+
 * [On undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html)
 * [Seriously, The Reflog Isn’t That Scary
 Harnessing the power of git-reflog for good](https://medium.com/@./seriously-the-reflog-isnt-that-scary-a4189dd88c40)
@@ -65,6 +69,6 @@ Harnessing the power of git-reflog for good](https://medium.com/@./seriously-the
 
 ### TODO:
 
-![in-class-git-flow.png]
+We use a fairly specific workflow for git in this class.  We typically discuss it as we work through the projects, but you can see a summary of it in the image below:
 
-[gitpretty.pdf](git-pretty.pdf)
+![In-Class Git Flow](in-class-git-flow.png)
