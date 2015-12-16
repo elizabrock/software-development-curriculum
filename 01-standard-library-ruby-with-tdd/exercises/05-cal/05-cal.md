@@ -39,9 +39,6 @@ Wikipedia articles that may be of use:
   * [http://en.wikipedia.org/wiki/Gregorian_calendar](http://en.wikipedia.org/wiki/Gregorian_calendar)
   * [http://en.wikipedia.org/wiki/Zeller's_congruence](http://en.wikipedia.org/wiki/Zeller's_congruence)
 
-
-
-
 ## Printing Months
 
 The initial milestone of this assignment is to implement a ruby program, `cal.rb` that takes two command-line arguments:
