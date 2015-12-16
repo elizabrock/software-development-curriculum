@@ -10,11 +10,11 @@ The inputs to gates come from the left side and the output comes out the right. 
 
 A truth table illustrating AND:
 
-  | A | B | A && B |
-  | 0 | 0 | 0      |
-  | 0 | 1 | 0      |
-  | 1 | 0 | 0      |
-  | 1 | 1 | 1      |
+    | A | B | A && B |
+    | 0 | 0 | 0      |
+    | 0 | 1 | 0      |
+    | 1 | 0 | 0      |
+    | 1 | 1 | 1      |
 
 ## OR
 
@@ -22,11 +22,11 @@ A truth table illustrating AND:
 
 A truth table illustrating this:
 
-  | A | B | A || B |
-  | 0 | 0 | 0      |
-  | 0 | 1 | 1      |
-  | 1 | 0 | 1      |
-  | 1 | 1 | 1      |
+    | A | B | A || B |
+    | 0 | 0 | 0      |
+    | 0 | 1 | 1      |
+    | 1 | 0 | 1      |
+    | 1 | 1 | 1      |
 
 ## NOT
 
@@ -36,9 +36,9 @@ A truth table illustrating this:
 
 A truth table illustrating this:
 
-  | A | !A |
-  | 0 | 1  |
-  | 1 | 0  |
+    | A | !A |
+    | 0 | 1  |
+    | 1 | 0  |
 
 
 ## XOR
@@ -47,11 +47,11 @@ A truth table illustrating this:
 
 A truth table illustrating this:
 
-  | A | B | A XOR B |
-  | 0 | 0 | 0       |
-  | 0 | 1 | 1       |
-  | 1 | 0 | 1       |
-  | 1 | 1 | 0       |
+    | A | B | A XOR B |
+    | 0 | 0 | 0       |
+    | 0 | 1 | 1       |
+    | 1 | 0 | 1       |
+    | 1 | 1 | 0       |
 
 ## Resources:
 

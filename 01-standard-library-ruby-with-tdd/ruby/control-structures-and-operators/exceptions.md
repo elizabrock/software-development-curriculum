@@ -9,7 +9,7 @@ An exception is an event that occurs when an error arises within your program. I
 ## Types of Exceptions & Inheritance
 Ruby has about 30 main predefined exception classes that deal with different types of errors, such as `NoMemoryError`, `RuntimeError`, `SecurityError`, `ZeroDivisionError`, and `NoMethodError`. The following is a complete list of the subclasses that inherit from Exception.
 
-![types of exceptions](http://rubylearning.com/images/exception.jpg)
+![types of exceptions, via rubylearning.com](ruby-learning-dot-com-exception.jpg)
 
 As you can see from the diagram, there is a hierarchy to how exceptions inherit from Exception. For example, `RuntimeError` inherits from `StandardError`, which inherits from Exception, which inherits from Object.
 

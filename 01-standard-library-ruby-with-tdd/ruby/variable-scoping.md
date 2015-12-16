@@ -12,7 +12,7 @@ A _global variable_ is a variable with global scope — that is, it's available 
 
 A _constant_ is easily identified by its initial capital letter.  Constants cannot be changed once set.  If the constant is a string, the string can be changed, but where the constant points does not change.
 
-####Did you know?
+#### Did you know?
 * Class names are just constants.
 
 ```

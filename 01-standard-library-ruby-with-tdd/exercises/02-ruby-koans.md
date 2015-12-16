@@ -26,7 +26,7 @@ For this milestone, work through:
 
 ## Ruby Koans, day 2
 
-> requires: methods, variable scoping, all of booleans bits and basic logic, conditional control structures, stack traces, loop control structures, blocks-procs-and-lambdas
+> requires: basic-logic, booleans-and-bits, booleans-in-ruby, gates, truth-tables, methods, understanding-stack-traces, loop-control-structures, variable-scoping, iterators, exceptions, blocks-procs-and-lambdas
 
 Following the same procedure as day 1, work through:
   * `about_regular_expressions`
