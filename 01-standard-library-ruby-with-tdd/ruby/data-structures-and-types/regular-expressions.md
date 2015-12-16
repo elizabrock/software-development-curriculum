@@ -203,5 +203,6 @@ plus the text matched by all capturing groups.
 
 ### TODO:
 
+Incorporate this chart in plain-text:
 ![](regex1.png)
 ![](regex2.png)

@@ -25,8 +25,7 @@ For this milestone, work through:
   * `about_symbols`
 
 ## Ruby Koans, day 2
-
-> requires: basic-logic, booleans-and-bits, booleans-in-ruby, gates, truth-tables, methods, understanding-stack-traces, loop-control-structures, variable-scoping, iterators, exceptions, blocks-procs-and-lambdas
+> requires: basic-logic, booleans-and-bits, booleans-in-ruby, gates, truth-tables, methods, understanding-stack-traces, loop-control-structures, variable-scoping, iterators, exceptions, blocks-procs-and-lambdas, regular-expressions
 
 Following the same procedure as day 1, work through:
   * `about_regular_expressions`
@@ -41,8 +40,7 @@ Following the same procedure as day 1, work through:
   * `about_blocks`
 
 ## Ruby Koans, day 3
-
-> requires: classes-and-inheritance,
+> requires: classes-and-inheritance, modules, open-classes
 
 Following the same procedure as day 1, work through:
 
@@ -53,7 +51,8 @@ Following the same procedure as day 1, work through:
   * `about_dice_project`
   * `about_inheritance`
 
-## Ruby Koans, Enlightenment
+## Ruby Koans, Enlightenment, day 5
+> requires: proxy-classes
 
 Finish the Koans through `about_to_str`.  The final koan, `about_extra_credit` is optional.
 

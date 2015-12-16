@@ -201,7 +201,7 @@ The result of calling *son.altered()* will be:
 * [Understanding the Ruby Object Model](http://skilldrick.co.uk/2011/08/understanding-the-ruby-object-model/)
 
 
-### TODO
+### TODO: Incorporate the shapes discussion into this article
 
 ![](oop-intro.jpg)
 ![](oop-circles1.jpg)
