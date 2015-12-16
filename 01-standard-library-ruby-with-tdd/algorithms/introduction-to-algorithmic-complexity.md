@@ -1,5 +1,3 @@
-<!-- TODO: https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04 -->
-
 # Introduction to Algorithmic Complexity
 
 >  In computer science, big O notation is used to classify algorithms by how they respond (e.g., in their processing time or working space requirements) to changes in input size. (Wikipedia)
@@ -81,3 +79,5 @@ There are alternative notations, for example Big-Theta, little-O, etc., that are
 * [Quora: What is the big O notation and how do I calculate it?](http://www.quora.com/Big-O-Notation/What-is-the-big-O-notation-and-how-do-I-calculate-it)
 * [Justing Abrahms: Big-O is easy to calculate, if you know how](http://justinlilly.com/computer-science/how-to-calculate-big-o.html)
 * [Stack Overflow: Plain English explanation of Big O](http://stackoverflow.com/questions/487258/plain-english-explanation-of-big-o)
+
+<!-- TODO: Incorporate https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04 -->

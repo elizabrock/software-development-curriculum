@@ -29,7 +29,7 @@ Some advantages of insertion sort is:
 
 A good video on how the insertion sort works is [Insertion Sort explained by Apple Juice Teaching](https://www.youtube.com/watch?v=baV_W4-x5Wg)
 
-######Below is a graphical representation of the insertion sort:
+Below is a graphical representation of the insertion sort:
 
 ![Example of Insertion Sort](insertionsort.gif)
 
@@ -44,7 +44,7 @@ The selection sort works by dividing the input into two parts: the sublist of al
 	Step 4               1   4   4   5   8
 	Result               1   4   4   5   8
 
-######Below is a animated example of the selection sort:
+Below is a animated example of the selection sort:
 
 ![Example of Selection Sort](selectionsort.gif)
 
@@ -58,7 +58,7 @@ The merge sort conceptually works like:
 
 The merge sort is easy to implement and can be best described as a "divide and conquer" algorithm. It was invented by John von Neumann in 1945.
 
-######Below is a representation of the merge sort:
+Below is a representation of the merge sort:
 ![Example of Merge Sort](mergesort.gif)
 
 ## Quick Sort
@@ -69,18 +69,18 @@ Quick sort works like this:
 2. Reorder the array so that all elements with values less than the pivot come before the pivot, while all elements with values greater than the pivot come after it (equal values can go either way). After this partitioning, the pivot is in its final position. This is called the partition operation.
 3. Recursively apply the above steps to the sub-array of elements with smaller values and separately to the sub-array of elements with greater values.
 
-######Below is a animated showing of the quick sort:
+Below is a animated showing of the quick sort:
 
 ![Example of Quick Sort](quicksort.gif)
 
 ## Bubble Sort
 The bubble sort is a simple sorting algorithm that works by repeatedly stepping through the list to be sorted, comparing each pair of adjacent items and swapping them if they are in the wrong order. Then the pass through the list is repeated until there are no swaps needed.
 
-######Below shows how the bubble sort works:
+Below shows how the bubble sort works:
 
 ![Example of Bubble Sort](bubblesort.gif)
 
-######Or you can watch this video!:
+Or you can watch this video!:
 
 [Bubble-sort with Hungarian ("Csángó") folk dance](https://www.youtube.com/watch?v=lyZQPjUT5B4&feature=youtu.be)
 
@@ -92,7 +92,7 @@ Bucket sort works as follows:
 3. Sort each non-empty bucket.
 4. Gather: Visit the buckets in order and put all elements back into the original array.
 
-######The image below shows how a bucket sort will break data into sets:
+The image below shows how a bucket sort will break data into sets:
 
 ![Example of Bucket Sort](bucketsort.png)
 

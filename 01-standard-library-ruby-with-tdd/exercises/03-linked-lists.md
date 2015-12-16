@@ -58,6 +58,6 @@ Implement all of the tests for LinkedListItems.
 Implement all of the tests for LinkedList.
 
 ## Milestone 3: Implement Search/Sorting
-> requires: Searching & Sorting
+> requires: introduction-to-searching, introduction-to-sorting, introduction-to-algorithmic-complexity
 
 Implement the final searching/sorting tests.  These tests won't be pushed up until we've covered searching and sorting in class.
