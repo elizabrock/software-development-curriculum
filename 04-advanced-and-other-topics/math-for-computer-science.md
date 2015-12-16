@@ -1,5 +1,7 @@
 # Mathematics for Computer Science
 
+We typically work through this as a class, with examples and some basic individual exercises.
+
 ## Base 10 Math
 
 * Standard Algebra

@@ -19,11 +19,11 @@ Test Run Modes
 
 To run the tests Koans style:
 
-  rake
+    rake
 
 To run all of the tests at once:
 
-  rake test_all
+    rake test_all
 
 More Information
 ----------------
@@ -49,7 +49,7 @@ Caveats
 * No copying (from the internet or your peers)
 
 ## Milestone 1: Implement LinkedListItem
-> requires: LinkedLists
+> requires: introduction-to-datatypes-and-structures, linked-lists
 
 Implement all of the tests for LinkedListItems.
 

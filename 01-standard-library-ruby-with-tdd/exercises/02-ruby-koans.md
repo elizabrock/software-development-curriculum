@@ -12,7 +12,7 @@ It's time to get started on the [Ruby Koans](http://rubykoans.com/).
 \* You will have to use `git init` to initialize the git repository in the koans directory.
 
 ## Ruby Koans, day 1
-> requires: introduction-to-objects, introduction-to-automated-testing, version-control-with-git, arrays, stacks, queues, operators-and-assignment, hashes, nil, strings
+> requires: introduction-to-objects, introduction-to-automated-testing, version-control-with-git, arrays, stacks, queues, operators-and-assignment, hashes, nil, strings, characters, symbols, overview-of-number-types
 
 For this milestone, work through:
   * `about_asserts`

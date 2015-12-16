@@ -2,9 +2,9 @@
 
 Data Structures, as the name implies, are the structures in which data is stored.
 
-Data is, losely, anything that can be stored.
+Data is, loosely, anything that can be stored.
 
-The structures can be in a multitude of forms, but the primary forms are lists (think to-do lists, people waiting in lines, or a class roster), hashes (think dictionaries, thesauruses, or anything else where you can look up one item in order to find more and/or related information), trees (think org charts and family trees), and objectsc (a collection of information about a single concept/thing).
+The structures can be in a multitude of forms, but the primary forms are lists (think to-do lists, people waiting in lines, or a class roster), hashes (think dictionaries, thesauruses, or anything else where you can look up one item in order to find more and/or related information), trees (think org charts and family trees), and objects (a collection of information about a single concept/thing).
 
 Objects are the most nebulous concept in that list but for now, you can think of them as "the data structure that can hold anything".  
 

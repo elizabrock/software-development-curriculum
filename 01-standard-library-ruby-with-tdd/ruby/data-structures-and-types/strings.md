@@ -28,6 +28,8 @@ What if you need to use both single AND double quotes in your string? Don't pani
 
     > string1 = 'Well maybe I\'m not "the norm". I\'m not "camera friendly", I don\'t "wear clothes that fit me", I\'m not a "heartbreaker"'
 
+![Contrasting the String types](contrasting-string-types.jpg)
+
 ### Flexible Strings
 
 Don't want to deal with prepending quotations with backslashes? It could get especially messy when dealing with string variables and user input. Maybe flexible strings are for you.
