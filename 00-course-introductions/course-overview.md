@@ -13,7 +13,7 @@ The students have a strong focus on the end-result of being professional softwar
 * Client work?
 * APIs?
 
-#### Student Responses (Cohort Blueberry):
+#### Student Responses (Cohort Blueberry, this varies by cohort):
 
 * Jade
 * Node

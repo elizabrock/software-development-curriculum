@@ -1,4 +1,4 @@
-Our books for this term are:
+Recommended books for this course are:
 
  * [Computer Science Programming Basics in Ruby](http://www.amazon.com/Computer-Science-Programming-Basics-Ruby-ebook/dp/B00CEKY2B2/ref=sr_1_1?s=books&ie=UTF8&qid=1386724117&sr=1-1&keywords=Computer+Science+Programming+Basics+in+Ruby)
  * [The Pragmatic Programmer](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
@@ -8,7 +8,6 @@ Our books for this term are:
 
 Pragmatic Programmer and Apprenticeship Patterns will be used as part of our book club.
 
-Computer Science Programming Basics in Ruby and Rails 4 in Action will be referenced but we won't be going through them in their entirety.  They do, however, reflect the material I am teaching and the way in which I am teaching it.
-
+Computer Science Programming Basics in Ruby and Rails 4 in Action will be referenced but we won't be going through them in their entirety.  They do, however, reflect the material I am teaching, and the general way in which I am teaching it.
 
 Free Books related to Ruby can be found here: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ruby

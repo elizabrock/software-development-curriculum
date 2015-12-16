@@ -10,12 +10,5 @@ Take Plus Park Blvd up the hill and then back down the hill.  283 Plus Park Blvd
 
 283 Plus Park Blvd is a plain grey one story commercial/industrial building (the first of two long buildings that are side by side) with glass all along the wall.  If you face the building from the parking lot, our entry door is at the far right hand end of the building. (We are the building with a green roof, not the building with the red roof and awning).
 
-The front door has a sign for Boys Prep charter school - they used the building prior to us.  There are no signs for Nashville Software School yet since we just moved in.  
 
-
-Matrix 2.4 & Matrix 5.0 password:
-there is no spoon
-
-
-NSS2 & NSS5 password:
-NSS85132134
+WiFi Password: 283pluspark
