@@ -1,12 +1,30 @@
-# Test-Driven Development
+# Introduction to Automated Testing
 
-https://medium.com/cool-code-pal/a39b2d94aad2
+Typically we discuss this as a class, on the whiteboard.  The outline is below.
 
-## Pete's reminder about Sandi Metz:
+![Whiteboard discussion of TDD & Testing](tdd-and-testing.jpg "Whiteboard discussion of TDD & Testing")
+
+## What is automated testing?
+
+## Types of Tests
+
+### Unit
+
+### Integration
+
+## What is TDD?
+
+### How does Eliza TDD?
+
+(Outside->In, focusing on acceptance testing)
+
+
+## Notes from Previous Classes
+
+From Pete ??'s reminder about Sandi Metz:
 
 > I talked with a couple people in class this afternoon about testing and how to sort out what to test and how.  Tonight I watched Sandi Metz's talk about testing (I think Eliza first mentioned it) and it was amazing.  It makes the process seem borderline simple and straightforward.  I think the half our of watching the video would be recouped in the next hour of coding.  Here is the link:
 > http://www.youtube.com/watch?v=URSWYvyc42M
-
 
 The pinnacle of this list of links:
 
@@ -14,9 +32,3 @@ The pinnacle of this list of links:
 * [Uncle Bob explains The Pragmatics of TDD](http://blog.8thlight.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html)
 
 (Sandi and Bob are extremely well respected in the field.)
-
-## What is TDD?
-
-## How does Eliza TDD?
-
-(Outside->In, focusing on acceptance testing)
