@@ -8,6 +8,8 @@ SQL is pronounced "ess queue el" or "sequel".
 
 Booleans have three possible values (true, false, null)
 
+<!-- TODO: Other data types -->
+
 ## Queries
 
 ### SELECT
@@ -31,8 +33,6 @@ AND, OR, NOT, IS NULL, IS NOT NULL
 Patterns: % (multiple char) _ (single char)
 
 #### LIKE
-
-(from RH slides:)
 
 `SELECT name FROM customer WHERE phone LIKE '%555-___'`
 

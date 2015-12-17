@@ -4,7 +4,6 @@
 
 On Friday the 17th, Jeremy Holland came in to talk with us about join tables and domain design.
 
-
 Rachel noted the following books, that Jeremy recommended:
 
     > Jeremy Holland suggested a couple books on Domain Driven Design.

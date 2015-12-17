@@ -1,3 +1,0 @@
-# Transactions and Locks
-
-<!-- TODO -->

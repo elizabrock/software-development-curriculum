@@ -1,5 +1,7 @@
 # SQL Queries
 
+These are the basic queries we created as a class, before sending them off on their own to do the queries quiz.  The tasks (e.g. "Show me everything in a table") are used in each cohort, but I pretty sure haven't updated the queries listed here since cohort 1's version of the database.
+
 ## In Class:
 
 Show me everything in a table:
@@ -72,19 +74,3 @@ What if I then wanted to see that ordered by Company Name, with the products mad
 FROM Products INNER JOIN Suppliers
   ON Products.SupplierID = Suppliers.SupplierID
   ORDER BY CompanyName ASC, ProductName ASC;
-
-## Assignment:
-
-Write queries for the following:
-
-Find the names of all “sales representatives” who work in London.
-
-Find the name of the female "sales representative" who work in London and report to the Sales Manager Mr. Steven Buchanan. (Please do not enter any criterion under the "ReportsTo" field when answering this query.)
-
-Find the names and addresses of all the suppliers which can provide “tofu”.  (Note: You should be able to find two companies.)
-
-List the sales for orders shipped to France.
-
-Find the products on order from companies based in the UK.
-
-List all the orders taken by the sales representative Anne Dodsworth from the companies based in London along with the unit price and quantity of each order.

@@ -83,10 +83,9 @@ Distributed databases are stored across multiple machines and locations.  This s
 
 Distributed databases increase maintenance and administrative costs, as managing databases and fail-over across many locations typically requires more specialized knowledge.
 
-
 ## Outline of Databases Topics
 
-The general order in which I (Eliza) think cover database-related topics:
+The general order in which I (Eliza) cover database-related topics:
 
   * Intro to Databases
   * ACID
@@ -101,7 +100,7 @@ The general order in which I (Eliza) think cover database-related topics:
   * Normalization
   * Joins
   * Projects
-  * Overview of:
+  * Mentions of:
     * Sprocs
     * Views
     * Query Optimization

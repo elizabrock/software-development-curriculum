@@ -4,7 +4,7 @@ Data Models are a set of concepts to describe a database *structure* (schema) an
 
 ## Database Schema
 
-Schemas are a description of the data in the database.  This is seperate from the actual data.
+Schemas are a description of the data in the database.  This is separate from the actual data.
 
 For example, int(4) might be part of the schema for a column whose data holds year numbers (e.g. 2001, 2004, 2016, etc.)
 
@@ -16,9 +16,9 @@ The database state is the actual content (data) of the database at a particular 
 
 Keys are the unique characteristics that allow us to tell different database entities apart.
 
-[ TODO: Needs Examples ]
+<!-- TODO: Needs Examples -->
 
+Sources/Further Reading:
 
-http://en.wikipedia.org/wiki/Database_model
-
-http://en.wikipedia.org/wiki/Database_design
+* http://en.wikipedia.org/wiki/Database_model
+* http://en.wikipedia.org/wiki/Database_design
