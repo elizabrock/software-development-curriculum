@@ -1,10 +1,12 @@
 # Introduction to Automated Testing
 
-Typically we discuss this as a class, on the whiteboard.  The outline is below.
-
-![Whiteboard discussion of TDD & Testing](tdd-and-testing.jpg "Whiteboard discussion of TDD & Testing")
+Typically we discuss this as a class, on the whiteboard.  This is outlined is below.
 
 ## What is automated testing?
+
+Whiteboard discussion of TDD & Testing
+
+![Whiteboard discussion of TDD & Testing](tdd-and-testing.jpg "Whiteboard discussion of TDD & Testing")
 
 ## Types of Tests
 
@@ -13,6 +15,10 @@ Typically we discuss this as a class, on the whiteboard.  The outline is below.
 ### Integration
 
 ## What is TDD?
+
+Red -> Green -> Refactor
+
+![Red -> Green -> Refactor](red-green-refactor.jpg "Red -> Green -> Refactor")
 
 ### How does Eliza TDD?
 

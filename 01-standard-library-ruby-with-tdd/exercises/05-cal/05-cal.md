@@ -40,6 +40,7 @@ Wikipedia articles that may be of use:
   * [http://en.wikipedia.org/wiki/Zeller's_congruence](http://en.wikipedia.org/wiki/Zeller's_congruence)
 
 ## Printing Months
+> requires: magic-numbers-and-magic-strings
 
 The initial milestone of this assignment is to implement a ruby program, `cal.rb` that takes two command-line arguments:
 
@@ -56,7 +57,7 @@ and outputs the calendar for that month (12) and year (2012):
     23 24 25 26 27 28 29
     30 31
 
-This is functionally equivalent to calling Unix cal with those arguments (`cal 12 2012`) and the output of your program should match that of Unix cal.
+This is functionally equivalent to calling Unix cal with those arguments (`cal 12 2012`) and the output of your program should match that of Unix cal.  Focus on writing short, testable, methods.
 
 ## Printing Years
 
@@ -101,7 +102,17 @@ and output the calendar for that year (2012):
     28 29 30 31           25 26 27 28 29 30     23 24 25 26 27 28 29
                                                 30 31
 
+## In-Class Peer Code Review
+> requires code-review, code-smells, test-smells
+
+This will be an in-class exercise, based on in-class code reviews and discussion.
+
+Do not start this milestone before explicitly being told to.
+
+* Walk two peers through your code, reviewing it for the code smells we discussed
+* <strong>Be nice!</strong> This isn’t for criticism, it is for improvement!
+* Each reviewer should produce a list of changes
 
 ## Refactor
 
-This will largely be an in-class exercise, based on in-clas code reviews and discussion.
+Refactor your code for cal based on your code reviews

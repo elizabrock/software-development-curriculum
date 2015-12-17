@@ -1,1 +1,0 @@
-Tuesday was spent working independently on refactoring Cal (based on Monday's peer code reviews).
