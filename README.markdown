@@ -1,4 +1,4 @@
-software-development-curriculum
+Software Development (with Rails) Curriculum
 ===============================
 
 The goal of this repository is to aggregate all of the course materials I've developed in the first four Nashville Software School cohorts.
@@ -6,6 +6,47 @@ The goal of this repository is to aggregate all of the course materials I've dev
 ## The Plan:
 
 This is the unified repository of all information we have/do cover in the software development fundamentals course at [Nashville Software School](http://nashvillesoftwareschool.com).  It is used by the [courseware](http://coursewareofthefuture.herokuapp.com) to populate the course materials.
+
+## The Course Timeline:
+
+Reference courses from the courseware are linked below.  Not all of them used the courseware, or used the courseware for the whole course.
+
+* https://coursewareofthefuture.herokuapp.com/courses/1/calendar
+* https://coursewareofthefuture.herokuapp.com/courses/3/calendar
+* https://coursewareofthefuture.herokuapp.com/courses/6/calendar
+* https://coursewareofthefuture.herokuapp.com/courses/7/calendar
+
+The general timeline:
+
+### Unit 0:
+
+* Week 1, day 1: They wrap up their capstones from the last Class
+* Week 1, day 2: The present their capstones in the AM.  You'll have a little time for class intro material in the PM
+
+### Unit 1:
+
+* Week 1, day 3-4: Cheers
+* Week 1d4 through Week 2: Koans
+* Week 3: Linked Lists
+* Week 4: cal
+
+### Unit 2:
+
+* Week 5: SQL; Start Databases/Ruby Capstone
+* Week 6: Databases/Ruby Capstone; Refactor into ActiveRecord
+
+### Unit 3:
+
+* Week 7: Sometimes a Rails Front-End/Views project
+* Week 8-9: In-class Rails Project
+
+Week 10 is not scheduled here, but one or more of the projects will take a few extra days, so don't worry about it.
+
+### Unit 4:
+
+* Weeks 11-12: Guest lecturers and "Advanced" topics in AM; Capstone work in PM
+
+The students present their final projects after the break.
 
 ## Contributions:
 
@@ -42,41 +83,6 @@ Files with the ".markdown" extension are purposely ignored by the courseware, so
 * Matt Spell (@mattSpell)
 * Courey Elliott (@Courey)
 * Bob Paterno (@bobpaterno)
-
-### Note to Contributors:
-
-I (Eliza) have rewritten the repository history to remove the large files that caused the repository to bloat to 400+Mb.  Pro: this means pulling down the repository no longer involves half a gig of data transfer.  Con: this means that the history in your local repositories no longer remotely matches anything you may have in your local repositories.
-
-### Note to Self, re: progress reorganizing the repo:
-
-> git ls-files . --exclude-standard --others | nl
-
-> git ls-files | nl
-
-Completion Status:
-
-    | date          | files   | % complete |
-    | 6/22, 11:00AM | 6/918   | 0.65%      |
-    | 7/06, 12:45AM | 21/826  | 2.54%      |
-    | 7/06, 11:45AM | 34/818  | 4.15%      |
-    | 7/07,  3:00PM | 45/803  | 5.60%      |
-    | 7/11,  4:01PM | 62/775  | 8.00%      |
-    | 7/17,  9:30AM | 72/729  | 9.87%      |
-    | 7/26, 11:40AM | 78/733  | 10.64%     |
-    | 8/02, 11:15AM | 95/609  | 15.59%     |
-    | 8/15, 10:02AM | 123/561 | 21.92%     |
-    | 12/4, 12:00PM | 139/509 | 27.31%     |
-    | 12/5, 11:01AM | 202/386 | 52.33%     |
-
-## TODO:
-
-* Reference the methods article from the RDoc folder
-* Make sure to clean out the arrays folder
-* Make sure to clear out the hashes folder
-* Make sure to clear out the Regular Expressions folder
-* More details on the git commands in the version control article
-* Reference: http://24ways.org/2013/git-for-grownups/
-
 
 ## Diagramming Tools:
 
