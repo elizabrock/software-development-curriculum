@@ -1,6 +1,6 @@
 # Databases Capstone
 
-This capstone is intended to demonstrate your mastery of basic git, project documentation (README, comments), writing integration tests, writing unit tests, basic-to-intermediate SQL and basic Ruby.
+This capstone is intended to demonstrate your mastery of basic git, project documentation (README, comments), writing integration tests, writing unit tests, basic-to-intermediate SQL and basic Ruby.  Completing the capstone will also teach you how high-level frameworks, like Rails, work behind the scenes.
 
 This project will:
 
@@ -106,10 +106,14 @@ We will be going through this for the class project, as you work through it for 
 Continue working on the project, adding one feature at a time until you have all of your functionality completed.
 
 ## In-class project presentations
+> requires: presentation-instructions
+
+Read the Presentation Instructions article for instructions on presenting your work.
 
 We will present the projects in-class.  Presentation order will be announced day-of.
 
 ## Refactoring
+> requires: activerecord-indexes, activerecord-migrations, activerecord-scopes, introduction-to-activerecord
 
 This milestone will be explained once we reach it.
 

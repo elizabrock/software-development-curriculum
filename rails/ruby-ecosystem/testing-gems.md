@@ -1,9 +1,0 @@
-
-
-Shoulda
-
-VCR
-
-Webmock
-
-DatabaseCleaner
