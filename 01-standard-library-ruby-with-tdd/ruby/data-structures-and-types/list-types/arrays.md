@@ -15,7 +15,7 @@
         sandwich = [“peanut”, “butter”, “and”, “jelly”]
 
 
-##Accessing Array Elements
+## Accessing Array Elements
 * To access array elements start with the name of the array followed the index of the element in brackets:
 
         sandwich[0] = “peanut"
@@ -29,29 +29,31 @@
         sandwich[-1] = "jelly"
 
 
-##Slicing Arrays
+## Slicing Arrays
 * Slicing an array will select a particular section of an array.
 * The first value is the index to start at and the second value is the amount of elements to select.
 
         first_ingredient = sandwich[0,2]
         puts first_ingredient #=> [“peanut”, “butter”]
 
-##Ranges and Arrays
+![](koans-array-access.jpg)
+
+## Ranges and Arrays
 * A range is **not** an array.
 * A range can be converted into an array by using **.to_a**
 
         new_array = (1..5).to_a
         puts new_array #=> [1, 2, 3, 4, 5]
 
-##Using Ranges to Slice an Array
+## Using Ranges to Slice an Array
 * Slicing an array using a range will take all of elements with an index number between the first and last number of the range.
 
         bad_sandwich = sandwich[1..3]
         puts bad_sandwich  #=> [“butter”, “and”, “jelly”]
 
-##Pushin' and Poppin' with Array
+## Pushin' and Poppin' with Array
 
-###Pushing
+### Pushing
 * Pushing into an array will add an element to the end of an array.
 * Pushing an element into an array can be done with **.push** or **<<**
 
@@ -59,14 +61,14 @@
         sandwich << "beans"
         puts sandwich #=> [“peanut”, “butter”, “and”, “jelly”, “belly”, “beans”]
 
-###Popping
+### Popping
 * Popping and array will remove the last value from an array:
 
         popped = sandwich.pop
         puts popped #=> “beans"
         puts sandwich #=>  [“peanut”, “butter”, “and”, “jelly”, “belly”]
 
-##Shifting Arrays
+## Shifting Arrays
 * Using **.unshift** will add element to the beginning of an array
 
         colors = ["orange", "purple", "green"]
@@ -79,13 +81,12 @@
         puts first_color #=> "yellow"
         puts colors #=> ["orange", "purple", "green"]
 
-##Array Assignments
+## Array Assignments
 * By defining arrays with comma separated variables, you can assign individual elements
 
         first_name, last_name = ["John", "Smith", "III"]
         puts first_name #=> "John"
         puts last_name #=> "Smith"
-
 
 ## Contrasting Arrays and Hashes
 

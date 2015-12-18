@@ -1,0 +1,26 @@
+# Database Notes from Cohort ?
+
+I honestly can't remember which cohort this was, but it was probably mid-2014.
+
+![](database-notes/nss020.png)
+![](database-notes/nss021.png)
+![](database-notes/nss022.png)
+![](database-notes/nss023.png)
+![](database-notes/nss025.png)
+![](database-notes/nss027.png)
+![](database-notes/nss028.png)
+![](database-notes/nss041.png)
+![](database-notes/nss042.png)
+![](database-notes/nss045.png)
+![](database-notes/nss046.png)
+![](database-notes/nss047.png)
+![](database-notes/nss048.png)
+![](database-notes/nss049.png)
+![](database-notes/nss050.png)
+![](database-notes/nss051.png)
+![](database-notes/nss055.png)
+![](database-notes/nss056.png)
+![](database-notes/nss057.png)
+![](database-notes/nss058.png)
+![](database-notes/nss059.png)
+![](database-notes/nss062.png)

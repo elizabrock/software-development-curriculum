@@ -53,6 +53,10 @@ If you're having trouble seeing certain files in OS X Finder, you'll want to ena
 
 * http://mac.tutsplus.com/tutorials/os-x/quick-tip-revealing-hidden-files-in-os-x/
 
+## Should You Fork or Branch?
+
+![](fork-or-branch.png)
+
 ## Resources for when things go wrong:
 
 Start with [gitpretty.pdf](git-pretty.pdf), and then take a look at the links below.
